@@ -78,6 +78,6 @@ XXX \ didFinishLaunchingWithOptions \ 应用启动 \ AppDelegate
 ###效果图
 （无）
 
-###收录备注（收录时间、来源、原因等）
+###备注（收录时间、来源、原因等）
 （无）
 ```
