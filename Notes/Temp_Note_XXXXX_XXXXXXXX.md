@@ -11,12 +11,9 @@ AppDelegate - iOS APP Launch Options
 
 ###关键字
 
-###参考链接
-
-###延伸参考
-（无）
-
 ###需求场景
+
+###参考链接
 
 ###详细内容
 
