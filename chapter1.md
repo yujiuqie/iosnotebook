@@ -66,9 +66,6 @@ XXX \ didFinishLaunchingWithOptions \ 应用启动 \ AppDelegate
 ###参考链接（收录内容来源相关链接）
 （无）
 
-###延伸参考（收录内容延伸参考）
-（无）
-
 ###需求场景
 
 - 需要对应用启动进行类别区分时
