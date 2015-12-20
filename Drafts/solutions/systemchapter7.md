@@ -1,0 +1,98 @@
+### 变更记录
+| 序号 | 录入时间 | 录入人 | 备注 |
+| -- | -- | -- | -- |
+| 1 | 2015-03-25 | Alfred Jiang | - |
+| 2 | 2015-12-10 | Alfred Jiang | 更新 Xcode 7 Alcatraz 安装相关 |
+
+### 方案名称
+Xcode - 插件的安装与使用
+
+### 方案类型（推荐 or 参考）
+推荐方案
+
+### 关键字
+Xcode \ 插件 \ Alcatraz
+
+### 需求场景
+1. 提高 Xcode 开发效率
+
+### 参考链接
+1. [使用Alcatraz来管理Xcode插件](http://blog.devtang.com/blog/2014/03/05/use-alcatraz-to-manage-xcode-plugins/)
+2. [xcode一些有用的小插件](http://www.jianshu.com/p/baa5c73a08cf?nomobile=yes)
+3. [那些不能错过的Xcode插件](http://www.cocoachina.com/industry/20130918/7022.html)
+4. [简书 - 在 Xcode 7 中安装 Alcatraz](http://www.jianshu.com/p/5c8ed25ad434)
+5. [升级Xcode之后VVDocumenter-Xcode不能用的解决办法](http://www.bubuko.com/infodetail-922634.html)
+
+### 详细内容
+
+####1. Xcode 7 Alcatraz 管理包安装方法
+
+#####(1) 关闭 Xcode。
+
+#####(2) 如果你之前安装过 Alcatraz，卸载它。运行命令：
+```
+    rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
+```
+
+#####(3) 运行命令：
+```
+    find ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins -name Info.plist -maxdepth 3 | xargs -I{} defaults write {} DVTPlugInCompatibilityUUIDs -array-add defaults read /Applications/Xcode.app/Contents/Info DVTPlugInCompatibilityUUID
+
+    sudo xcode-select --reset
+```
+
+#####(4) 打开 Xcode。
+
+#####(5) 安装 Alcatraz。
+```
+    curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh
+```
+
+#####(6) 重启 Xcode。若提示“Load bundle”、 “Skip Bundle”，这里必须选择“Load bundle”，不然插件无法使用。
+
+####2. Xcode 7 之前使用如下的命令行来安装 Alcatraz
+```
+    mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;
+    curl -L http://git.io/lOQWeA | tar xvz -C ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins
+```
+
+卸载命令
+```
+    rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
+    rm -rf ~/Library/Application\ Support/Alcatraz
+```
+
+####3. 在下面位置打开安装的 Alcatraz 插件管理器
+![alcatraz-menu](images/alcatraz-menu.jpg)
+
+####4. 选择喜欢的插件进行安装
+![alcatraz-home](images/alcatraz-home.jpg)
+
+####5. 插件路径
+```
+    ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
+```
+
+####6. Xcode 6.2 插件失效解决方法
+
+进入下面目录，
+```
+    ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins/
+```
+
+编辑各个插件目录下的Info.plist文件，找到DVTPlugInCompatibilityUUIDs这段，将新的UUID加进去，重启Xcode。
+```
+    <string>A16FF353-8441-459E-A50C-B071F53F51B7</string>
+```
+
+####7. 推荐插件
+1. [FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin) 代码自动补全
+2. [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) 快速生成注释
+3. [KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode) 在代码中预览图片
+4. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander) 快速补全 Switch 的 Case
+
+### 效果图
+（无）
+
+### 备注
+（无）
