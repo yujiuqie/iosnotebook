@@ -20,7 +20,7 @@
    * [专题 - 优秀技术文章参考](Notes/Note_00014_20151220.md)
    * [专题 - 优秀技术博客参考](Notes/Note_00015_20151220.md)
    * [专题 - 值得模块化的业务需求](Notes/Note_00016_20151220.md)
-   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
+   * [设计模式 - iOS App 开发常用设计模式简介](Notes/Note_00017_20151221.md)
    * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
    * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
    * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
