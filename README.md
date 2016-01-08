@@ -11,6 +11,7 @@
 
 #### 最新更新
 
+   * [Xcode - 使用 chisel 提高 LLDB 调试效率](Notes/Note_00129_20160108.md)(2016-01-08)
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)(2016-01-05)
    * [专题 - iOS 完整项目源代码参考](Notes/Note_00127_20151228.md)(2015-12-28)
    * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)(2015-12-24)
@@ -69,6 +70,7 @@
    * [UIView \ UIButton - 独占响应事件](Notes/Note_00007_20151218.md)
    * [UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用](Notes/Note_00005_20151218.md)
    * [UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF](Notes/Note_00004_20151218.md)
+   * [Xcode - 使用 chisel 提高 LLDB 调试效率](Notes/Note_00129_20160108.md)
    * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)
    * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)

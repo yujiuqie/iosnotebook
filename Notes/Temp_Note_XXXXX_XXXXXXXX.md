@@ -2,14 +2,15 @@
 
 | 序号 | 录入时间 | 录入人 | 备注 |
 |:--------:|:--------:|:--------:|:--------:|
-| 1 | 2015-03-18 | Alfred Jiang | - |
-| 2 | 2015-12-23 | Alfred Jiang | - |
+| 1 | 2016-01-08 | Alfred Jiang | - |
 
 ### 方案名称
 
 AppDelegate - iOS APP Launch Options
 
 ### 关键字
+
+AppDelegate \ Launch
 
 ### 需求场景
 
@@ -24,4 +25,4 @@ AppDelegate - iOS APP Launch Options
 （无）
 
 Image_00001_00001
-Note_00001_20151223.md
+Note_00101_20160108.md
