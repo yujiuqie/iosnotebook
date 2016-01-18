@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * Notes
-   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
    * [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
    * [Auto Layout - 手动添加 Auto Layout 约束](Notes/Note_00092_20151223.md)
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)
@@ -23,6 +22,7 @@
    * [NSString - 汉字转为拼音显示的实现](Notes/Note_00075_20151223.md)
    * [NSString - 相似度检测](Notes/Note_00032_20151221.md)
    * [NSString - 筛选出 NSString 中特定字符串](Notes/Note_00119_20151223.md)
+   * [NSURL - 特殊字符处理](Notes/Note_00130_20160118.md)
    * [openURL - iOS App 跳转 App Store 下载和 App Store 评论](Notes/Note_00109_20151223.md)
    * [UDID - 解决方案介绍与比较](Notes/Note_00083_20151223.md)
    * [UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)](Notes/Note_00097_20151223.md)
@@ -101,6 +101,8 @@
    * [文档 - 苹果审核未通过问题与解决方案参考](Notes/Note_00013_20151220.md)
    * [时间 - 倒计时器的实现](Notes/Note_00068_20151223.md)
    * [时间 - 延时执行解决方案](Notes/Note_00003_20151218.md)
+   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
+   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
    * [正则表达式 - 在 iOS 开发中使用正则表达式](Notes/Note_00091_20151223.md)
    * [测试 - iOS 应用测试 Checklist 以及思维导图](Notes/Note_00040_20151222.md)
    * [测试 - iOS 自动化测试框架介绍](Notes/Note_00020_20151221.md)
@@ -132,4 +134,3 @@
    * [键盘 - 弹出与收起改变页面高度](Notes/Note_00033_20151222.md)
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
-   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)

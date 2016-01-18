@@ -5,12 +5,12 @@
 #####该电子书在编辑过程中尽最大努力保留了所有解决方案的来源参考链接。由于大部分解决方案都来源于网络，大量重复的转载复制以及我个人能力所限，编辑之后的电子书难免有疏漏，若您发现该电子书中的某些记录侵犯了您的个人权利，可以通过以下方式联系到我，我会立即更新删除。若您对该电子书中的某些解决方案的记录有疑问，也希望您能够不吝赐教，共同探讨学习。谢谢！
 ###### QQ   ： 66745628
 ###### 邮箱 ： [66745628@qq.com](66745628@qq.com)
-###### 微博 ： [名字一定要很长才不会被别人抢注](http://weibo.com/2263300592/profile?rightmod=1&wvr=6&mod=personinfo)
 
 ---------
 
 #### 最新更新
 
+   * [NSURL - 特殊字符处理](Notes/Note_00130_20160118.md)(2016-01-18)
    * [时间 - 倒计时器的实现](Notes/Note_00068_20151223.md)(2016-01-10)
    * [Xcode - 使用 chisel 提高 LLDB 调试效率](Notes/Note_00129_20160108.md)(2016-01-08)
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)(2016-01-05)
@@ -45,6 +45,7 @@
    * [NSString - 汉字转为拼音显示的实现](Notes/Note_00075_20151223.md)
    * [NSString - 相似度检测](Notes/Note_00032_20151221.md)
    * [NSString - 筛选出 NSString 中特定字符串](Notes/Note_00119_20151223.md)
+   * [NSURL - 特殊字符处理](Notes/Note_00130_20160118.md)
    * [openURL - iOS App 跳转 App Store 下载和 App Store 评论](Notes/Note_00109_20151223.md)
    * [UDID - 解决方案介绍与比较](Notes/Note_00083_20151223.md)
    * [UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)](Notes/Note_00097_20151223.md)
@@ -123,6 +124,8 @@
    * [文档 - 苹果审核未通过问题与解决方案参考](Notes/Note_00013_20151220.md)
    * [时间 - 倒计时器的实现](Notes/Note_00068_20151223.md)
    * [时间 - 延时执行解决方案](Notes/Note_00003_20151218.md)
+   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
+   * [模板](Notes/Temp_Note_XXXXX_XXXXXXXX.md)
    * [正则表达式 - 在 iOS 开发中使用正则表达式](Notes/Note_00091_20151223.md)
    * [测试 - iOS 应用测试 Checklist 以及思维导图](Notes/Note_00040_20151222.md)
    * [测试 - iOS 自动化测试框架介绍](Notes/Note_00020_20151221.md)
