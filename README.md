@@ -25,7 +25,7 @@
 
 #### 文章列表
 
-   * [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
+   1. [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
    * [Auto Layout - 手动添加 Auto Layout 约束](Notes/Note_00092_20151223.md)
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)
    * [Block - 介绍与使用](Notes/Note_00102_20151223.md)
@@ -73,7 +73,9 @@
    * [UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用](Notes/Note_00005_20151218.md)
    * [UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF](Notes/Note_00004_20151218.md)
    * [Xcode - 使用 chisel 提高 LLDB 调试效率](Notes/Note_00129_20160108.md)
+   * [Xcode - 使用 Instruments 的 Allocations 工具检测内存分配情况](Notes/Note_00135_20160121.md)
    * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)
+   * [Xcode - 使用 Symbolicatecrash 工具进行 Crash 日志分析](Notes/Note_00134_20160121.md)
    * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
    * [Xib - 通过 Xib 加载自定义 Cell](Notes/Note_00123_20151223.md)
