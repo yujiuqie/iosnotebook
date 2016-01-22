@@ -18,11 +18,11 @@
 
 ---------
 
-#### 推荐链接
+#### 特别推荐
 
 | 序号 | 名称 | 简介 |
 |:--------:|:--------:|:--------:|
-| 1 | [Github-iOS备忘](http://github.ibireme.com/github/list/ios/#) | 收录了 Github 上大量的 iOS 第三方开源代码 |
+| 1 | [Github - iOS 备忘](http://github.ibireme.com/github/list/ios/#) | 收录了 Github 上大量的 iOS 第三方开源代码 |
 | 2 | [Skyfox - iOS 开发学习路线图](http://ios.skyfox.org/route.html) | iOS 开发学习路线图参考 |
 
 更多链接参考 [专题 - iOS 开发学习资源参考](Notes/Note_00018_20151221.md)
@@ -57,6 +57,7 @@
    * [UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)](Notes/Note_00097_20151223.md)
    * [UIButton - 使用 RNLoadingButton 实现等待按钮](Notes/Note_00087_20151223.md)
    * [UIButton - 避免多次重复点击](Notes/Note_00070_20151223.md)
+   * [UIImage - 获取 UIImage 大小与压缩 UIImage](Notes/Note_00136_20160122.md)
    * [UIImageView - 使用 LBBlurredImage 实现图像模糊效果](Notes/Note_00061_20151223.md)
    * [UILabel - 悬浮美金单位效果的实现](Notes/Note_00077_20151223.md)
    * [UILabel - 显示多格式文本](Notes/Note_00094_20151223.md)
