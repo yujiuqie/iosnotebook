@@ -138,3 +138,7 @@
    * [键盘 - 弹出与收起改变页面高度](Notes/Note_00033_20151222.md)
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
+* Python
+   * [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
+   * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
+   * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)

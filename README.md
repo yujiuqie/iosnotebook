@@ -1,6 +1,6 @@
 #### 欢迎访问 [iOSNotebook](https://github.com/viktyz/iosnotebook)。
 
-这是一本用于记录 iOS 开发过程中遇到的一些疑难问题以及对应解决方案的电子书。
+这是一本用于记录 iOS 开发过程中遇到的一些问题和解决方案的电子书。
 
 该电子书通过 [GitBook](https://www.gitbook.com/book/viktyz/iosnotebook/details) 工具制作并发布。
 
@@ -15,6 +15,10 @@
 ###### QQ   ： 66745628
 
 ###### 邮箱 ： [66745628@qq.com](66745628@qq.com)
+
+备注：
+
+1. 自 2016 年 1 月 23 日开始，该电子书增加记录 Python 学习过程中的一些问题和解决方案
 
 ---------
 
@@ -167,3 +171,12 @@
    * [键盘 - 弹出与收起改变页面高度](Notes/Note_00033_20151222.md)
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
+
+---------
+
+#### Python 相关
+
+   1. [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
+   * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
+   * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
+
