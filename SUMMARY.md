@@ -35,7 +35,7 @@
    * [UILabel - 显示换行的方法](Notes/Note_00085_20151223.md)
    * [UILabel - 计算文本高度](Notes/Note_00113_20151223.md)
    * [UILabel - 通过字符串长度计算显示框大小的方法](Notes/Note_00084_20151223.md)
-   * [UILabel \ UITextField - 设置行间距](Notes/Note_00030_20151221.md)
+   * [UILabel \ UITextField - 设置行间距等富文本属性](Notes/Note_00030_20151221.md)
    * [UINavigationBar - 自定义按钮和标题](Notes/Note_00066_20151223.md)
    * [UINavigationController - 使用 SlideNavigationController 实现侧滑需求](Notes/Note_00098_20151223.md)
    * [UIPageControl - 翻页显示的实现](Notes/Note_00081_20151223.md)
