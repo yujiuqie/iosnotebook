@@ -85,6 +85,7 @@
    * [UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF](Notes/Note_00004_20151218.md)
    * [Xcode - 使用 chisel 提高 LLDB 调试效率](Notes/Note_00129_20160108.md)
    * [Xcode - 使用 Instruments 的 Allocations 工具检测内存分配情况](Notes/Note_00135_20160121.md)
+   * [Xcode - 使用 Instruments 的 Core Animation 工具进行 UIKit 性能调优](Notes/Note_00137_20160126)
    * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)
    * [Xcode - 使用 Symbolicatecrash 工具进行 Crash 日志分析](Notes/Note_00134_20160121.md)
    * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
