@@ -19,6 +19,7 @@
 备注：
 
 1. 自 2016 年 1 月 23 日开始，该电子书增加记录 Python 学习过程中的一些问题和解决方案
+2. 自 2016 年 1 月 29 日开始，该电子书增加记录 JavaScript 学习过程中的一些问题和解决方案
 
 ---------
 
@@ -181,3 +182,8 @@
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
 
+---------
+
+#### JavaScript 相关
+
+   1. [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
