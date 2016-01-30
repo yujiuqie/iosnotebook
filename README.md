@@ -187,3 +187,4 @@
 #### JavaScript 相关
 
    1. [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
+   2. [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)

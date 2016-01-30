@@ -145,3 +145,4 @@
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
 * JavaScript
    * [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
+   * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
