@@ -29,6 +29,8 @@
 |:--------:|:--------:|:--------:|
 | 1 | [Github - iOS 备忘](http://github.ibireme.com/github/list/ios/#) | 收录了 Github 上大量的 iOS 第三方开源代码 |
 | 2 | [Skyfox - iOS 开发学习路线图](http://ios.skyfox.org/route.html) | iOS 开发学习路线图参考 |
+| 3 | [Github - Awesome-iOS](https://github.com/vsouza/awesome-ios) |  Awesome 系列之 iOS |
+| 4 | [Github - iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn) | Awesome 系列之 iOS 中文版 |
 
 更多链接参考 [专题 - iOS 开发学习资源参考](Notes/Note_00018_20151221.md)
 
