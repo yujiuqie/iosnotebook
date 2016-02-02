@@ -138,6 +138,7 @@
    * [键盘 - 使用 IQKeyboardManager 完美解决IOS开发键盘遮挡](Notes/Note_00034_20151222.md)
    * [键盘 - 弹出与收起改变页面高度](Notes/Note_00033_20151222.md)
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
+   * [音视频 - 使用 TheAmazingAudioEngine 框架实现 iOS 音频开发中的各种音效实现](Notes/Note_00138_20160202.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
 * Python
    * [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
