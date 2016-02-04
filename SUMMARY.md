@@ -140,6 +140,7 @@
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
    * [音视频 - 使用 TheAmazingAudioEngine 框架实现 iOS 音频开发中的各种音效实现](Notes/Note_00138_20160202.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
+   * [其他 - RESTful API 设计与最佳实践介绍](Notes/Note_00139_20160204.md)
 * Python
    * [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
