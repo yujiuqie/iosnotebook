@@ -39,7 +39,7 @@
 #### 文章列表
 
    1. [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
-   * [Auto Layout - 手动添加 Auto Layout 约束](Notes/Note_00092_20151223.md)
+   * [Auto Layout - 手动添加 Auto Layout 约束(Masonry)](Notes/Note_00092_20151223.md)
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)
    * [Block - 介绍与使用](Notes/Note_00102_20151223.md)
    * [CoreData - 使用 FYHDBManager 管理 CoreData](Notes/Note_00042_20151222.md)
@@ -99,6 +99,7 @@
    * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
    * [Xib - 通过 Xib 加载自定义 Cell](Notes/Note_00123_20151223.md)
    * [Xib - 通过 Xib 加载自定义 View](Notes/Note_00124_20151223.md)
+   * [专题 - iOS 使用 XMPP 实现即时聊天](Notes/Note_00147_20160308.md)
    * [专题 - iOS 应用证书、真机调试与发布 Appstore](Notes/Note_00131_20160119.md)
    * [专题 - iOS 开发学习资源参考](Notes/Note_00018_20151221.md)
    * [专题 - iOS 开发第三方代码库参考](Notes/Note_00019_20151221.md)
@@ -159,6 +160,7 @@
    * [特殊控件 - 雷达图（蛛网图、五行图）解决方案](Notes/Note_00051_20151222.md)
    * [相册 - 从系统相册选择照片](Notes/Note_00080_20151223.md)
    * [系统服务 - 调用系统应用和系统服务](Notes/Note_00106_20151223.md)
+   * [网络 - iOS 访问 HTTPS SSL 和 TLS 双向加密](Notes/Note_00148_20160308.md)
    * [网络 - iOS7 的多任务处理——后台获取（Background Fetch）](Notes/Note_00043_20151222.md)
    * [网络 - 使用 AFNetworking 实现网络请求](Notes/Note_00047_20151222.md)
    * [网络 - 判断连接状态](Notes/Note_00058_20151222.md)
