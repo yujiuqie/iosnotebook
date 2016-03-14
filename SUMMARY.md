@@ -7,6 +7,7 @@
    * [Auto Layout - 约束冲突断点调试方法](Notes/Note_00128_20160105.md)
    * [Block - 介绍与使用](Notes/Note_00102_20151223.md)
    * [CoreData - 使用 FYHDBManager 管理 CoreData](Notes/Note_00042_20151222.md)
+   * [Git - iOS 开发 gitignore 文件](Notes/Note_00152_20160314.md)
    * [JSON - 使用 JSONHelper 进行 JSON 数据解析](Notes/Note_00093_20151223.md)
    * [Keychain - 使用 PDKeychainBindingsController 实现 Keychain 保存数据封装](Notes/Note_00088_20151223.md)
    * [Mac 系统 - Mac OS 运行shell脚本](Notes/Note_00026_20151221.md)
