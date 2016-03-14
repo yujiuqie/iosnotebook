@@ -147,6 +147,7 @@
    * [通知 - iOS7 的多任务处理——远程通知（Remote Notifications）](Notes/Note_00044_20151222.md)
    * [通知 - 本地推送通知（Local Notification）的测试与实现](Notes/Note_00099_20151223.md)
    * [通知 - 远程推送通知（Remote Notification）的测试与实现](Notes/Note_00096_20151223.md)
+   * [通讯录 - 访问 iOS 系统通讯录](Notes/Note_00154_20150314.md)
    * [键盘 - 使用 IQKeyboardManager 完美解决IOS开发键盘遮挡](Notes/Note_00034_20151222.md)
    * [键盘 - 弹出与收起改变页面高度](Notes/Note_00033_20151222.md)
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
