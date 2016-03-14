@@ -121,6 +121,7 @@
    * [测试 - iOS 自动化测试框架介绍](Notes/Note_00020_20151221.md)
    * [测试 - 使用 DVR 进行网络请求数据的录制与测试](Note_00125_20151224)
    * [版本兼容 - 7\8 - 无法正确获取 iPad 横竖屏宽高解决方案](Notes/Note_00006_20151218.md)
+   * [特殊控件 - 使用 DBSphereTagCloud 实现标签云效果](Notes/Note_00155_20160314.md)
    * [特殊控件 - 使用 RecordingCircleOverlayView 实现环形记录仪动画](Notes/Note_00056_20151222.md)
    * [特殊控件 - 使用 SubjectiveCPhotoPanner 实现动作感应显示图片](Notes/Note_00057_20151222.md)
    * [特殊控件 - 钟表效果实现](Notes/Note_00072_20151223.md)
