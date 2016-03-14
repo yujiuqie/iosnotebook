@@ -167,3 +167,4 @@
    * [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
    * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
    * [JavaScript - JavaScript To Avoid](JavaScript/JavaScript_00003_20160130.md)
+   * [专题 - JavaScript 学习资源收集](JavaScript/JavaScript_00004_20160314.md)
