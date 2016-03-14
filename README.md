@@ -107,7 +107,6 @@
    * [专题 - iOS 开发辅助工具软件集合](Notes/Note_00025_20151221.md)
    * [专题 - iOS 设备处理器指令集参考](Notes/Note_00110_20151223.md)
    * [专题 - Mac & iOS 完整开源项目源代码参考](Notes/Note_00127_20151228.md)
-   * [专题 - 书籍推荐](Notes/Note_00150_20160311.md)
    * [专题 - 优秀技术博客参考](Notes/Note_00015_20151220.md)
    * [专题 - 优秀技术文章参考](Notes/Note_00014_20151220.md)
    * [专题 - 值得模块化的业务需求](Notes/Note_00016_20151220.md)
@@ -188,14 +187,18 @@
    * [音视频 - 使用 TheAmazingAudioEngine 框架实现 iOS 音频开发中的各种音效实现](Notes/Note_00138_20160202.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
    * [其他 - RESTful API 设计与最佳实践介绍](Notes/Note_00139_20160204.md)
+   * [其他 - 书籍推荐](Notes/Note_00150_20160311.md)
+   * [其他 - 有趣的网址收集](Notes/Note_00151_20160314.md)
 
 ---------
 
 #### Python 相关
 
    1. [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
+   * [Python - Python 脚本收集](Python/Python_00004_20160314.md)
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
+   * [专题 - Python 学习资源收集](Python/Python_00005_20160314.md)
 
 ---------
 
