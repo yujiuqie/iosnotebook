@@ -14,6 +14,7 @@
    * [Mac 系统 - 使用 Automator 批量重命名](Notes/Note_00027_20151221.md)
    * [Mac 系统 - 使用 Scp 命令上传下载文件](Notes/Note_00022_20151221.md)
    * [Mac 系统 - 修改 Mac OS X root 密码](Notes/Note_00029_20151221.md)
+   * [Mac 系统 - 启用定时自动执行任务](Notes/Note_00165_20160323.md)
    * [NSArray - 对自定义对象的数组进行排序](Notes/Note_00069_20151223.md)
    * [NSDate - 时间日期相关操作方法总结](Notes/Note_00079_20151223.md)
    * [NSMutableSet - 在NSMutableSet中添加自定义对象时怎么保证不重复](Notes/Note_00115_20151223.md)
