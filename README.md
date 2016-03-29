@@ -100,6 +100,7 @@
    * [Xcode - 使用 Instruments 的 Core Animation 工具进行 UIKit 性能调优](Notes/Note_00137_20160126.md)
    * [Xcode - 使用 Jenkins 进行 App 自动化打包](Notes/Note_00142_20160229.md)
    * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)
+   * [Xcode - 插件开发](Notes/Note_00168_20160329.md)
    * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
    * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
