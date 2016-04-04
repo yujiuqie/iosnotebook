@@ -122,6 +122,9 @@
    * [专题 - 控制器介绍](Notes/Note_00101_20151223.md)
    * [专题 - 时间戳的介绍与使用](Notes/Note_00021_20151221.md)
    * [二维码 - QRCode 生成与识别](Notes/Note_00050_20151222.md)
+   * [其他 - RESTful API 设计与最佳实践介绍](Notes/Note_00139_20160204.md)
+   * [其他 - 书籍推荐](Notes/Note_00150_20160311.md)
+   * [其他 - 有趣的网址收集](Notes/Note_00151_20160314.md)
    * [内购 - iOS 内购的快速实现](Notes/Note_00105_20151223.md)
    * [动画 - Core Animation 之 CABaseAnimation](Notes/Note_00045_20151222.md)
    * [动画 - Core Animation 之 CATransform3D](Notes/Note_00035_20151222.md)
@@ -152,7 +155,6 @@
    * [数据加密 - 使用 NAVAJO 进行密码安全强度检测](Notes/Note_00009_20151218.md)
    * [数据存储 - 序列化对象](Notes/Note_00008_20151218.md)
    * [文件 - 使用 SSZipArchive 实现文件的压缩和解压缩](Notes/Note_00090_20151223.md)
-   * [文档 - iOS 设计相关图标与图像尺寸](Notes/Note_00011_20151220.md)
    * [文档 - iOS 项目的目录结构](Notes/Note_00012_20151220.md)
    * [文档 - 编码规范](Notes/Note_00010_20151220.md)
    * [文档 - 苹果审核未通过问题与解决方案参考](Notes/Note_00013_20151220.md)
@@ -170,6 +172,8 @@
    * [特殊控件 - 使用 SubjectiveCPhotoPanner 实现动作感应显示图片](Notes/Note_00057_20151222.md)
    * [特殊控件 - 钟表效果实现](Notes/Note_00072_20151223.md)
    * [特殊控件 - 雷达图（蛛网图、五行图）解决方案](Notes/Note_00051_20151222.md)
+   * [界面设计 - iOS 设计相关图标与图像尺寸](Notes/Note_00011_20151220.md)
+   * [界面设计 - 相关资料收集](Notes/Note_00169_20160404.md)
    * [相册 - 从系统相册选择照片](Notes/Note_00080_20151223.md)
    * [系统服务 - 调用系统应用和系统服务](Notes/Note_00106_20151223.md)
    * [网络 - iOS 访问 HTTPS SSL 和 TLS 双向加密](Notes/Note_00148_20160308.md)
@@ -203,9 +207,6 @@
    * [音视频 - 使用 POVoiceHUD 实现语音录制](Notes/Note_00062_20151223.md)
    * [音视频 - 使用 TheAmazingAudioEngine 框架实现 iOS 音频开发中的各种音效实现](Notes/Note_00138_20160202.md)
    * [音视频 - 音频播放、录音、视频播放、拍照、视频录制](Notes/Note_00108_20151223.md)
-   * [其他 - RESTful API 设计与最佳实践介绍](Notes/Note_00139_20160204.md)
-   * [其他 - 书籍推荐](Notes/Note_00150_20160311.md)
-   * [其他 - 有趣的网址收集](Notes/Note_00151_20160314.md)
 
 ---------
 
