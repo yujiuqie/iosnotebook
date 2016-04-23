@@ -122,6 +122,7 @@
    * [数据加密 - RSA 加密(包含JAVA服务器端解密)](Notes/Note_00048_20151222.md)
    * [数据加密 - 使用 NAVAJO 进行密码安全强度检测](Notes/Note_00009_20151218.md)
    * [数据存储 - 序列化对象](Notes/Note_00008_20151218.md)
+   * [数据库 - 使用 SQLCipher 进行数据库加密存储](Notes/Note_00174_20160423.md)
    * [文件 - 使用 SSZipArchive 实现文件的压缩和解压缩](Notes/Note_00090_20151223.md)
    * [文档 - iOS 项目的目录结构](Notes/Note_00012_20151220.md)
    * [文档 - 编码规范](Notes/Note_00010_20151220.md)
