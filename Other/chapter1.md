@@ -53,7 +53,7 @@ Image_Note的5位编号_5位序号
 
 | -- | -- | -- | -- |
 
-| 1 | 2015-03-18 | Alfred Jiang | - |
+| 1 | 2015-03-18 | [Alfred Jiang](https://github.com/viktyz) | - |
 
 ###方案名称（关键字首个为标题前缀，前缀参考 [这里](http://ios.skyfox.org/route.html) 的关键字）
 
