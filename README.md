@@ -18,9 +18,9 @@
 
 ##### 主页 ： [Alfred Jiang](http://viktyz.github.io/)
 
-###### Tips
+---------
 
-* 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 进行文章内容快速查询
+Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 进行文章内容快速查询
 
 ---------
 
