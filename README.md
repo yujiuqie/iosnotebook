@@ -16,7 +16,6 @@
 
 ##### 邮箱 ： [66745628@qq.com](66745628@qq.com)
 
-##### [iOSNotebook 快速查询](https://viktyz.github.io/iosnotebook/) 
 
 ---------
 
@@ -33,7 +32,7 @@
 
 ---------
 
-#### 文章列表
+#### 文章列表 [*快速查询*](https://viktyz.github.io/iosnotebook/) 
 
    1. [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
    * [Auto Layout - 手动添加 Auto Layout 约束(Masonry)](Notes/Note_00092_20151223.md)
