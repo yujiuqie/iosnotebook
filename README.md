@@ -1,4 +1,4 @@
-#### 欢迎访问 [iOSNotebook](https://github.com/viktyz/iosnotebook)。
+#### 欢迎访问 [iOSNotebook](https://viktyz.github.io/iosnotebook/)
 
 这是一本用于记录 iOS 开发过程中遇到的一些问题和解决方案的电子书。
 
@@ -12,14 +12,15 @@
 
 谢谢！
 
-###### QQ   ： 66745628
+##### QQ   ： 66745628
 
-###### 邮箱 ： [66745628@qq.com](66745628@qq.com)
+##### 邮箱 ： [66745628@qq.com](66745628@qq.com)
 
-备注：
+##### 主页 ： [Alfred Jiang](http://viktyz.github.io/)
 
-1. 自 2016 年 1 月 23 日开始，该电子书增加记录 Python 学习过程中的一些问题和解决方案
-2. 自 2016 年 1 月 29 日开始，该电子书增加记录 JavaScript 学习过程中的一些问题和解决方案
+---------
+
+Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 进行文章内容快速查询
 
 ---------
 
@@ -235,8 +236,9 @@
 #### JavaScript 相关
 
    1. [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
-   * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
    * [JavaScript - JavaScript To Avoid](JavaScript/JavaScript_00003_20160130.md)
+   * [JavaScript - 使用 PDFObject 实现 PDF 文件在线预览](JavaScript/JavaScript_00005_20160513.md)
+   * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
    * [专题 - JavaScript 学习资源收集](JavaScript/JavaScript_00004_20160314.md)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-76943272-1/iosnotebook/readme?pixel)](https://github.com/igrigorik/ga-beacon)

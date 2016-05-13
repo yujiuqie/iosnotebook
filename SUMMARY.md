@@ -191,6 +191,7 @@
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
 * JavaScript
    * [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
-   * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
    * [JavaScript - JavaScript To Avoid](JavaScript/JavaScript_00003_20160130.md)
+   * [JavaScript - 使用 PDFObject 实现 PDF 文件在线预览](JavaScript/JavaScript_00005_20160513.md)
+   * [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
    * [专题 - JavaScript 学习资源收集](JavaScript/JavaScript_00004_20160314.md)
