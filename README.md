@@ -1,4 +1,4 @@
-#### 欢迎访问 [iOSNotebook](https://viktyz.github.io/iosnotebook/)。
+#### 欢迎访问 [iOSNotebook](https://viktyz.github.io/iosnotebook/)
 
 这是一本用于记录 iOS 开发过程中遇到的一些问题和解决方案的电子书。
 
@@ -16,6 +16,11 @@
 
 ##### 邮箱 ： [66745628@qq.com](66745628@qq.com)
 
+##### 主页 ： [Alfred Jiang](http://viktyz.github.io/)
+
+###### Tips
+
+* 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 进行文章内容快速查询
 
 ---------
 
@@ -32,7 +37,7 @@
 
 ---------
 
-#### 文章列表 [*快速查询*](https://viktyz.github.io/iosnotebook/) 
+#### 文章列表
 
    1. [AppDelegate - iOS APP Launch Options](Notes/Note_00001_20151218.md)
    * [Auto Layout - 手动添加 Auto Layout 约束(Masonry)](Notes/Note_00092_20151223.md)
