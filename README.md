@@ -1,4 +1,4 @@
-#### 欢迎访问 [iOSNotebook](https://github.com/viktyz/iosnotebook)。
+#### 欢迎访问 [iOSNotebook](https://viktyz.github.io/iosnotebook/)。
 
 这是一本用于记录 iOS 开发过程中遇到的一些问题和解决方案的电子书。
 
