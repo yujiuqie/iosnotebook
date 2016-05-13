@@ -1,7 +1,6 @@
----
-layout: default
-title: {{ site.name }}
----
+<!DOCTYPE html>
+<html lang="en-us">
+<body>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -14,4 +13,9 @@ title: {{ site.name }}
 
 </script>
 
-<div id="home">{% include search.html %}</div>
+<script src="../pdfviewer/pdfobject.min.js"></script>
+<Script Language="JavaScript">
+PDFObject.embed("../pdfs/CN_Core_Animation_Programming_Guide.pdf");
+</script>
+</body>
+</html>

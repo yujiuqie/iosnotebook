@@ -1,0 +1,26 @@
+# Setup
+title:        iOSNotebook
+tagline:      ""
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       viktyz
+  url:        viktyz.github.io/iosnotebook 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+include: ["_others","js"]
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _scss
+  style:            :compressed

@@ -1,0 +1,196 @@
+/*==================================
+=            Base style            =
+==================================*/
+
+@import url("//fonts.googleapis.com/css?family=Ubuntu:400,300,500,700");
+
+* {
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+}
+
+html {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+  background: $bg-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: .01em;
+}
+
+body,
+input,
+select,
+textarea {
+  color: $txt-color;
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  font-weight: $font-weight-base;
+  line-height: $line-height-base;
+}
+
+a {
+  color: $link-color;
+  text-decoration: underline;
+
+  &:hover {
+    transition: color .2s linear;
+    text-decoration: none;
+    color: $link-hover-color;
+  }
+}
+
+strong {
+  font-weight: $font-weight-bold;
+}
+
+em {
+  font-style: italic;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+img {
+  display: block;
+  margin: 0 0 .6em;
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+  line-height: 1em;
+  margin: 0 0 1em 0;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  small {
+    font-size: 60%;
+  }
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: .9rem;
+}
+
+sub {
+  font-size: 0.8em;
+  position: relative;
+  top: 0.5em;
+}
+
+sup {
+  font-size: 0.8em;
+  position: relative;
+  top: -0.5em;
+}
+
+hr {
+  border: 0;
+  border-bottom: solid 1px rgba(144, 144, 144, 0.25);
+  margin: 2em 0;
+
+  &.major {
+    margin: 3em 0;
+  }
+}
+
+blockquote {
+  border-left: solid 4px $primary-color;
+  font-style: italic;
+  margin: 0 0 2em 0;
+  padding: 0.5em 0 0.5em 2em;
+}
+
+q, blockquote {
+  small {
+    font-size: 60%;
+  }
+}
+
+q {
+  quotes: "«" "»";
+
+  &:before {
+    content: open-quote;
+  }
+  &:after {
+    content: close-quote;
+  }
+}
+
+code {
+  background: none;
+  border-radius: 0;
+  border: none;
+  font-family: "Courier New", monospace;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 0 5px;
+  background-color: #dedede;
+}
+
+
+pre {
+  -webkit-overflow-scrolling: touch;
+  font-family: "Courier New", monospace;
+  font-size: 0.9em;
+  margin: 0;
+
+  code {
+    line-height: 1.75em;
+  }
+}
+
+.clearfix {
+  @extend %clearfix;
+}
+
+.dot {
+  border-radius: 50%;
+}
+
+.txt-center {
+  text-align: center;
+}
