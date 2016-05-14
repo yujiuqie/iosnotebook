@@ -1,9 +1,9 @@
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: search_json_url,
+  json: search_json_url + '/search.json',
   searchResultTemplate: '<li><a href="{url}" title="{title}">{title}</a></li>',
-  noResultsText: '<li class="no-results">No results found :(</li>',
+  noResultsText: '<li><a href="https://www.google.co.jp/search?q={searchInput}">Google : {searchInput}</a></li>',
   limit: 50,
   fuzzy: true
 });
