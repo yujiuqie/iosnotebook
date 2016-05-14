@@ -126,9 +126,9 @@ def get_file_from_dir(dir,callback):
 # 主函数
 def main():
 
-    get_file_from_dir('../'+current_file_dir(), parse_file)
+    get_file_from_dir(current_file_dir(), parse_file)
 
-    json.dump(list, open(r'search.json', 'w'),ensure_ascii=False, indent=1)
+    json.dump(list, open(r'Other/search.json', 'w'),ensure_ascii=False, indent=1)
 
 if __name__ == '__main__':
   main()
