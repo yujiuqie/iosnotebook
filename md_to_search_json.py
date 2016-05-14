@@ -7,6 +7,8 @@ import sys
 import os
 import json
 
+iosnotebook_project_url = "https://github.com/viktyz/iosnotebook/blob/master/"
+
 list = []
 
 #获取脚本文件的当前路径
@@ -24,19 +26,19 @@ def current_file_dir():
 
 def parse_file(filepath, filename):
 
-    url_string = ''
+    url_string = iosnotebook_project_url + '/'
 
     if str(filename).startswith('Note_'):
 
-        url_string = 'Notes/' + filename
+        url_string = url_string + 'Notes/' + filename
 
     elif str(filename).startswith('JavaScript_'):
 
-        url_string = 'JavaScript/' + filename
+        url_string = url_string + 'JavaScript/' + filename
 
     elif str(filename).startswith('JavaScript_'):
 
-        url_string = 'Python/' + filename
+        url_string = url_string + 'Python/' + filename
 
     else:
 
