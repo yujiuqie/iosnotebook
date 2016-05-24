@@ -225,7 +225,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 #### Python 相关
 
    1.  [Python - Mac 下安装 Python 模块](Python/Python_00001_20160123.md)
-   * [Python - Python 脚本收集](Python/Python_00004_20160314.md)
+   * [Python - Python 工具收集](Python/Python_00004_20160314.md)
    * [Python - 使用 Anaconda 进行 Python 科学计算](Python/Python_00006_20160423.md)
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
    * [Python - 学习资源收集](Python/Python_00005_20160314.md)
