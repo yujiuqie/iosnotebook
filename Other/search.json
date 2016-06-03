@@ -102,7 +102,7 @@
   "url": "https://github.com/viktyz/iosnotebook/blob/master//Notes/Note_00010_20151220.md", 
   "tags": "文档 \\ 编码规范 \\ Objective-C \\ Swift", 
   "date": "", 
-  "title": "文档 - 编码规范"
+  "title": "文档 - iOS 编码规范( Objective-C & Swift )"
  }, 
  {
   "category": "1. 需要确定 iOS 设计尺寸时", 
@@ -1293,5 +1293,12 @@
   "tags": "语法 \\ 数据存储 \\ 格式转换  \\ NSString \\ NSData \\ NSArray \\ NSDictionary \\ NSArray / NSDictionary <=> NSData <=> NSString", 
   "date": "", 
   "title": "语法 - NSString \\ NSData \\ NSArray \\ NSDictionary 格式转换 ( NSArray / NSDictionary <=> NSData <=> NSString )"
+ }, 
+ {
+  "category": "1. 用于恢复被误删除的 Git 分支", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Notes/Note_00181_20160526.md", 
+  "tags": "Git \\ 恢复删除分支 \\ 强制删除 \\ 分支恢复 \\ 误删除", 
+  "date": "", 
+  "title": "Git - 恢复被误删除分支"
  }
 ]

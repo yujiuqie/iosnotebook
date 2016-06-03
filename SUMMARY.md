@@ -130,7 +130,7 @@
    * [数据库 - 使用 SQLCipher 进行数据库加密存储](Notes/Note_00174_20160423.md)
    * [文档 - iOS 人机交互指南](Notes/Note_00178_20160510.md)
    * [文档 - iOS 项目的目录结构](Notes/Note_00012_20151220.md)
-   * [文档 - 编码规范](Notes/Note_00010_20151220.md)
+   * [文档 - iOS 编码规范( Objective-C & Swift )](Notes/Note_00010_20151220.md)
    * [文档 - 苹果审核未通过问题与解决方案参考](Notes/Note_00013_20151220.md)
    * [时间 - 使用 Benchmarking 精确测量的代码运行时间](Notes/Note_00141_20160219.md)
    * [时间 - 倒计时器的实现](Notes/Note_00068_20151223.md)
@@ -190,6 +190,7 @@
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
    * [Python - 学习资源收集](Python/Python_00005_20160314.md)
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
+   * [Python - 编码规范](Python/Python_00007_20160603.md)
 * JavaScript
    * [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
    * [JavaScript - JavaScript To Avoid](JavaScript/JavaScript_00003_20160130.md)
