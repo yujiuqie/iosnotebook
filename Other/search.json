@@ -1300,5 +1300,54 @@
   "tags": "Git \\ 恢复删除分支 \\ 强制删除 \\ 分支恢复 \\ 误删除", 
   "date": "", 
   "title": "Git - 恢复被误删除分支"
+ }, 
+ {
+  "category": "1. 需要安装 Python 模块时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00001_20160123.md", 
+  "tags": "Python \\ Mac \\ 模块", 
+  "date": "", 
+  "title": "Python - Mac 下安装 Python 模块"
+ }, 
+ {
+  "category": "1. 让同一台电脑运行多个不同版本的 Python 程序", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00002_20160123.md", 
+  "tags": "Python \\ 虚拟机 \\ 虚拟环境 \\ virualenv", 
+  "date": "", 
+  "title": "Python - 使用 virualenv 创建虚拟 Python 环境"
+ }, 
+ {
+  "category": "1. 使用 Python 和 py2app 创建 Mac App", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00003_20160123.md", 
+  "tags": "Python \\ py2app \\ Mac OS \\ APP", 
+  "date": "", 
+  "title": "Python - 用 Python 和 py2app 写独立的 Mac OS X 应用"
+ }, 
+ {
+  "category": "1. 学习一些有趣的开源脚本和工具", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00004_20160314.md", 
+  "tags": "Python \\ 脚本 \\ 工具 \\ 收集", 
+  "date": "", 
+  "title": "Python - Python 工具收集"
+ }, 
+ {
+  "category": "1. Python 学习资源收集参考", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00005_20160314.md", 
+  "tags": "专题 \\ Python \\ 学习资源", 
+  "date": "", 
+  "title": "Python - 学习资源收集"
+ }, 
+ {
+  "category": "1. 打包安装 Python + NumPy + SciPy + Matplotlib + IPython + IPython Notebook 实现科学计算", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00006_20160423.md", 
+  "tags": "Python \\ Anaconda \\ 科学计算 \\ continuum", 
+  "date": "", 
+  "title": "Python - 使用 Anaconda 进行 Python 科学计算"
+ }, 
+ {
+  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00007_20160603.md", 
+  "tags": "Python \\ 编码规范", 
+  "date": "", 
+  "title": "Python - 编码规范"
  }
 ]

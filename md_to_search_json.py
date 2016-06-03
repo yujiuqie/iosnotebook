@@ -36,7 +36,7 @@ def parse_file(filepath, filename):
 
         url_string = url_string + 'JavaScript/' + filename
 
-    elif str(filename).startswith('JavaScript_'):
+    elif str(filename).startswith('Python_'):
 
         url_string = url_string + 'Python/' + filename
 
