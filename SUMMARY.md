@@ -154,6 +154,7 @@
    * [网络 - iOS 访问 HTTPS SSL 和 TLS 双向加密](Notes/Note_00148_20160308.md)
    * [网络 - iOS7 的多任务处理——后台获取（Background Fetch）](Notes/Note_00043_20151222.md)
    * [网络 - 使用 AFNetworking 实现网络请求](Notes/Note_00047_20151222.md)
+   * [网络 - 使用 SimplePingHelper 在 iPhone / iPad 上 ping 指定服务器](Notes/Note_00182_20160612.md)
    * [网络 - 判断连接状态](Notes/Note_00058_20151222.md)
    * [设计模式 - iOS 开发常用设计模式简介](Notes/Note_00017_20151221.md)
    * [设计模式 - 使用命令模式实现撤销删除](Notes/Note_00041_20151222.md)

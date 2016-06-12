@@ -1302,6 +1302,13 @@
   "title": "Git - 恢复被误删除分支"
  }, 
  {
+  "category": "1. 测试 ping 连接", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master//Notes/Note_00182_20160612.md", 
+  "tags": "网络 \\ ping \\ 检测服务器连接", 
+  "date": "", 
+  "title": "网络 - 使用 SimplePingHelper 在 iPhone / iPad 上 ping 指定服务器"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master//Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
