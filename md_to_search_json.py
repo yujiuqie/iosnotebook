@@ -26,7 +26,7 @@ def current_file_dir():
 
 def parse_file(filepath, filename):
 
-    url_string = iosnotebook_project_url + '/'
+    url_string = iosnotebook_project_url
 
     if str(filename).startswith('Note_'):
 
