@@ -1309,6 +1309,13 @@
   "title": "网络 - 使用 SimplePingHelper 在 iPhone / iPad 上 ping 指定服务器"
  }, 
  {
+  "category": "1. 需要实现单次记录的需求场景，避免重复赋值与重复记录", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00183_20160616.md", 
+  "tags": "语法 \\ NSUserDefaults \\ registerDefaults \\ 单次记录", 
+  "date": "", 
+  "title": "语法 - 通过 registerDefaults 实现单次记录需求"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
