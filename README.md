@@ -16,7 +16,9 @@
 
 ##### 邮箱 ： [66745628@qq.com](66745628@qq.com)
 
-##### 主页 ： [Alfred Jiang](http://viktyz.github.io/)
+##### 主页 ： [viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/)
+
+##### GitHub : [viktyz/iosnotebook](https://github.com/viktyz/iosnotebook)
 
 ---------
 
