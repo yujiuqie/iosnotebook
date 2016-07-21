@@ -8,6 +8,7 @@
    * [Block - 介绍与使用](Notes/Note_00102_20151223.md)
    * [CoreData - 使用 FYHDBManager 管理 CoreData](Notes/Note_00042_20151222.md)
    * [Git - iOS 开发 gitignore 文件](Notes/Note_00152_20160314.md)
+   * [Git - 如何 clone git 项目到一个非空目录](Notes/Note_00186_20170721.md)
    * [Git - 常见错误与解决方案](Notes/Note_00184_20160701.md)
    * [Git - 恢复被误删除分支](Notes/Note_00181_20160526.md)
    * [JSON - 使用 JSONHelper 进行 JSON 数据解析](Notes/Note_00093_20151223.md)

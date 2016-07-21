@@ -1316,6 +1316,27 @@
   "title": "语法 - 通过 registerDefaults 实现单次记录需求"
  }, 
  {
+  "category": "1. 使用 Git 时遇到的常见错误解决方案", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00184_20160701.md", 
+  "tags": "Git \\ 常见错误 \\ 解决方案", 
+  "date": "", 
+  "title": "Git - 常见错误与解决方案"
+ }, 
+ {
+  "category": "1. 删除 NSString 中的前后空格或回车符", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00185_20160714.md", 
+  "tags": "NSString \\ 删除 \\ 字符串 \\ 首尾空格", 
+  "date": "", 
+  "title": "NSString - 删除 NSString 中前后空格或回车符"
+ }, 
+ {
+  "category": "1. 对一个主工程的子工程进行单独的 Git 管理时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00186_20170721.md", 
+  "tags": "Git \\ clone git 非空目录", 
+  "date": "", 
+  "title": "Git - 如何 clone git 项目到一个非空目录"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
