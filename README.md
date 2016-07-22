@@ -122,6 +122,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [专题 - iOS 应用证书、真机调试与发布 Appstore](Notes/Note_00131_20160119.md)
    * [专题 - iOS 开发学习资源参考](Notes/Note_00018_20151221.md)
    * [专题 - iOS 开发第三方代码库参考](Notes/Note_00019_20151221.md)
+   * [专题 - iOS 开发调试代码集合](Notes/Note_00187_20160722.md)
    * [专题 - iOS 开发辅助工具软件集合](Notes/Note_00025_20151221.md)
    * [专题 - iOS 设备处理器指令集参考](Notes/Note_00110_20151223.md)
    * [专题 - Mac & iOS 完整开源项目源代码参考](Notes/Note_00127_20151228.md)
