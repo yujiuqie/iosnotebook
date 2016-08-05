@@ -100,9 +100,9 @@
  {
   "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00010_20151220.md", 
-  "tags": "文档 \\ 编码规范 \\ Objective-C \\ Swift", 
+  "tags": "编码规范 \\ Objective-C \\ Swift", 
   "date": "", 
-  "title": "文档 - iOS 编码规范( Objective-C & Swift )"
+  "title": "编码规范 - iOS 编码规范(Objective-C & Swift)"
  }, 
  {
   "category": "1. 需要确定 iOS 设计尺寸时", 
@@ -1342,6 +1342,13 @@
   "tags": "专题  \\ iOS \\ 开发调试代码", 
   "date": "", 
   "title": "专题 - iOS 开发调试代码集合"
+ }, 
+ {
+  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性2. 简化编码规范校验过程", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00188_20160805.md", 
+  "tags": "编码规范 \\ Space Commander \\ spacecommander \\ 自动化", 
+  "date": "", 
+  "title": "编码规范 - 使用 Space Commander 实现 iOS 编码规范自动化"
  }, 
  {
   "category": "1. 需要安装 Python 模块时", 
