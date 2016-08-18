@@ -1351,6 +1351,13 @@
   "title": "编码规范 - 使用 Space Commander 实现 iOS 编码规范自动化"
  }, 
  {
+  "category": "1. 需要确认手机移动网络状态和运营商名称等信息", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00189_20160818.md", 
+  "tags": "网络 \\ CTTelephonyNetworkInfo \\ 移动网络类型 \\ 运营商信息", 
+  "date": "", 
+  "title": "网络 - 使用 CTTelephonyNetworkInfo 确定移动网络类型和运营商信息"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
