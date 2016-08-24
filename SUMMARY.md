@@ -29,6 +29,7 @@
    * [NSString - 汉字转为拼音显示的实现](Notes/Note_00075_20151223.md)
    * [NSString - 相似度检测](Notes/Note_00032_20151221.md)
    * [NSString - 筛选出 NSString 中特定字符串](Notes/Note_00119_20151223.md)
+   * [NSTimer - 解决 NSTimer 的循环引用问题导致的内存泄漏](Notes/Note_00190_20160824.md)
    * [NSURL - 特殊字符处理](Notes/Note_00130_20160118.md)
    * [openURL - iOS App 跳转 App Store 下载和 App Store 评论](Notes/Note_00109_20151223.md)
    * [UDID - 解决方案介绍与比较](Notes/Note_00083_20151223.md)
