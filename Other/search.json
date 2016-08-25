@@ -1365,6 +1365,13 @@
   "title": "NSTimer - 解决 NSTimer 的循环引用问题导致的内存泄漏"
  }, 
  {
+  "category": "1. 需要确认 iOS 设备屏幕分辨率时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00191_20160825.md", 
+  "tags": "界面设计 \\ 屏幕 \\ 分辨率", 
+  "date": "", 
+  "title": "界面设计 - iOS 设备屏幕分辨率"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 

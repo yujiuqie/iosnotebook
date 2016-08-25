@@ -190,6 +190,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [特殊控件 - 使用 SubjectiveCPhotoPanner 实现动作感应显示图片](Notes/Note_00057_20151222.md)
    * [特殊控件 - 钟表效果实现](Notes/Note_00072_20151223.md)
    * [特殊控件 - 雷达图（蛛网图、五行图）解决方案](Notes/Note_00051_20151222.md)
+   * [界面设计 - iOS 设备屏幕分辨率](Notes/Note_00191_20160826.md)
    * [界面设计 - iOS 设计相关图标与图像尺寸](Notes/Note_00011_20151220.md)
    * [界面设计 - 相关资料收集](Notes/Note_00169_20160404.md)
    * [相册 - 从系统相册选择照片](Notes/Note_00080_20151223.md)
