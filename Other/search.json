@@ -1372,6 +1372,13 @@
   "title": "界面设计 - iOS 设备屏幕分辨率"
  }, 
  {
+  "category": "1. 利用 Method Swizzling 对系统方法进行替换和追加行为", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00192_20160909.md", 
+  "tags": "Runtime \\ Method Swizzling \\ Aspect Oriented Programming \\ 面向切面编程", 
+  "date": "", 
+  "title": "Runtime - 使用 Aspects 实现 Method Swizzling 和 AOP 实践"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
