@@ -116,6 +116,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [Xcode - 在 Xcode 里添加和使用 Debug 宏定义](Notes/Note_00176_20160426.md)
    * [Xcode - 插件开发学习备忘](Notes/Note_00168_20160329.md)
    * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
+   * [Xcode - 系统警告处理( 清除和添加 )](Notes/Note_00193_20160919.md)
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
    * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
    * [Xib - 通过 Xib 加载自定义 Cell](Notes/Note_00123_20151223.md)

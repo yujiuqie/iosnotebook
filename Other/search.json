@@ -205,7 +205,7 @@
  {
   "category": "1. 提高 iOS 开发效率", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00025_20151221.md", 
-  "tags": "专题  \\ Mac 系统 \\ MAC OS \\ iOS \\ 工具软件", 
+  "tags": "专题  \\ Mac 系统 \\ MAC OS \\ iOS \\ 开发工具 \\ 开发软件 \\ 工具软件 \\ 辅助工具", 
   "date": "", 
   "title": "专题 - iOS 开发工具软件集合"
  }, 
@@ -1377,6 +1377,13 @@
   "tags": "Runtime \\ Method Swizzling \\ Aspect Oriented Programming \\ 面向切面编程", 
   "date": "", 
   "title": "Runtime - 使用 Aspects 实现 Method Swizzling 和 AOP 实践"
+ }, 
+ {
+  "category": "1. 消除系统中的编译警告", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00193_20160919.md", 
+  "tags": "Xcode \\ 添加警告 \\ 清除警告 \\ Warning", 
+  "date": "", 
+  "title": "Xcode - 系统警告处理( 清除和添加 )"
  }, 
  {
   "category": "1. 需要安装 Python 模块时", 
