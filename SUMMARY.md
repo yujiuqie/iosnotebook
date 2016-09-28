@@ -80,6 +80,7 @@
    * [Xcode - 系统警告处理( 清除和添加 )](Notes/Note_00193_20160919.md)
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
    * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
+   * [Xcode - 非 App Store 下载官方 Xcode 安装包方法](Notes/Note_00194_20160928.md)
    * [Xib - 通过 Xib 加载自定义 Cell](Notes/Note_00123_20151223.md)
    * [Xib - 通过 Xib 加载自定义 View](Notes/Note_00124_20151223.md)
    * [专题 - iOS 使用 XMPP 实现即时聊天](Notes/Note_00147_20160308.md)

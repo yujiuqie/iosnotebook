@@ -1386,6 +1386,13 @@
   "title": "Xcode - 系统警告处理( 清除和添加 )"
  }, 
  {
+  "category": "1. 需要同时安装多个 Xcode 时2. 需要安装较老版本 Xcode 时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00194_20160928.md", 
+  "tags": "Xcode \\ dmg \\ Xcode 安装包", 
+  "date": "", 
+  "title": "Xcode - 非 App Store 下载官方 Xcode 安装包方法"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
