@@ -1393,6 +1393,13 @@
   "title": "Xcode - 非 App Store 下载官方 Xcode 安装包方法"
  }, 
  {
+  "category": "1. 自动记录 Terminal 活动以便于查找出错的地方", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00195_20160930.md", 
+  "tags": "Mac 系统 \\ Terminal \\ 终端", 
+  "date": "", 
+  "title": "Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 

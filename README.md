@@ -58,6 +58,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [Mac 系统 - 使用 Scp 命令上传下载文件](Notes/Note_00022_20151221.md)
    * [Mac 系统 - 修改 Mac OS X root 密码](Notes/Note_00029_20151221.md)
    * [Mac 系统 - 启用定时自动执行任务](Notes/Note_00165_20160323.md)
+   * [Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动](Notes/Note_00195_20160930.md)
    * [NSArray - 对自定义对象的数组进行排序](Notes/Note_00069_20151223.md)
    * [NSDate - 时间日期相关操作方法总结](Notes/Note_00079_20151223.md)
    * [NSMutableSet - 在NSMutableSet中添加自定义对象时怎么保证不重复](Notes/Note_00115_20151223.md)
