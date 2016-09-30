@@ -1400,6 +1400,13 @@
   "title": "Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动"
  }, 
  {
+  "category": "1. 熟悉 iOS 视图层相关编程", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00196_20160930.md", 
+  "tags": "专题 \\ Views \\ 视图", 
+  "date": "", 
+  "title": "专题 - objc.io Issue 3: 视图 相关文章五篇"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
