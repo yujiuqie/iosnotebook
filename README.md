@@ -160,6 +160,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [工具 - 使用 VisualJSON 进行 JSON 格式网络接口 API 测试](Notes/Note_00024_20151221.md)
    * [工具 - 使用 Xcodebuild 进行命令行打包](Notes/Note_00159_20160320.md)
    * [应用间通信 - App 之间共享数据的几种方法](Notes/Note_00052_20151222.md)
+   * [应用间通信 - URL Schemes](Notes/Note_00197_20161008.md)
    * [应用间通信 - 实现应用间互相调用与数据传递](Notes/Note_00107_20151223.md)
    * [应用间通信 - 文档导入导出实现](Notes/Note_00104_20151223.md)
    * [应用间通信 - 通过 URL 检测是否安装并打开应用](Notes/Note_00111_20151223.md)

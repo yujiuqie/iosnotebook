@@ -1407,6 +1407,13 @@
   "title": "专题 - objc.io Issue 3: 视图 相关文章五篇"
  }, 
  {
+  "category": "1. 在自己的应用中打开某个第三方应用或系统应用并调用指定功能", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00197_20161008.md", 
+  "tags": "应用间通信 \\ URL Schemes", 
+  "date": "", 
+  "title": "应用间通信 - URL Schemes"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
