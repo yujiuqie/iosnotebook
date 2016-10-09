@@ -1087,7 +1087,7 @@
  {
   "category": "1. 打发时间", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00151_20160314.md", 
-  "tags": "其他 \\ 有趣 \\ 网址 \\ 收集", 
+  "tags": "其他 \\ 有趣的网址收集 \\ 有趣的网站收集", 
   "date": "", 
   "title": "其他 - 有趣的网址收集"
  }, 
@@ -1412,6 +1412,13 @@
   "tags": "应用间通信 \\ URL Schemes", 
   "date": "", 
   "title": "应用间通信 - URL Schemes"
+ }, 
+ {
+  "category": "1. 需要了解 Xcode 工程组织结构时2. 需要解决 Xcode Xcodeproj 文件冲突时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00198_20161009.md", 
+  "tags": "Xcode \\ Xcodeproj 介绍 \\ 工程目录结构 \\ 工程组织结构", 
+  "date": "", 
+  "title": "Xcode - Xcodeproj 介绍"
  }, 
  {
   "category": "1. 需要安装 Python 模块时", 
