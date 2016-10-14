@@ -39,6 +39,7 @@
    * [UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)](Notes/Note_00097_20151223.md)
    * [UIButton - 使用 RNLoadingButton 实现等待按钮](Notes/Note_00087_20151223.md)
    * [UIButton - 避免多次重复点击](Notes/Note_00070_20151223.md)
+   * [UIDevice - 通过 DeviceKit 更方便的获取硬件设备参数](Notes/Note_00200_20161014.md)
    * [UIEvent - iOS 事件拦截](Notes/Note_00173_20160414.md)
    * [UIImage - 获取 UIImage 大小与压缩 UIImage](Notes/Note_00136_20160122.md)
    * [UIImageView - 使用 LBBlurredImage 实现图像模糊效果](Notes/Note_00061_20151223.md)

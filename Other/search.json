@@ -1428,6 +1428,13 @@
   "title": "NSData - NSData 数据压缩与解压缩"
  }, 
  {
+  "category": "1. 需要确认设备型号时2. 需要确认电量信息状态时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00200_20161014.md", 
+  "tags": "UIDevice \\ DeviceKit \\ 设备 \\ 模拟器 \\ 电量信息与状态", 
+  "date": "", 
+  "title": "UIDevice - 通过 DeviceKit 更方便的获取硬件设备参数"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
