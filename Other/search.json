@@ -667,7 +667,7 @@
  {
   "category": "1. 需要对字符串进行正则相关的验证时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00091_20151223.md", 
-  "tags": "正则表达式 \\ Email验证 \\ 手机号码验证 \\ 输入验证 \\ NSString", 
+  "tags": "正则表达式 \\ Email 验证 \\ ip 验证 \\ 域名验证 \\ 手机号码验证 \\ 输入验证 \\ NSString", 
   "date": "", 
   "title": "正则表达式 - 在 iOS 开发中使用正则表达式"
  }, 
