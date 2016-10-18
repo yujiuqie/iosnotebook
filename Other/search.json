@@ -1435,6 +1435,13 @@
   "title": "UIDevice - 通过 DeviceKit 更方便的获取硬件设备参数"
  }, 
  {
+  "category": "1. 解决 iOS 8 之后 PP 助手、iTools 等工具难以查看非越狱机器 App 目录问题2. 修改非越狱机器下 App 中文件", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00201_20161018.md", 
+  "tags": "工具 \\ iBackupbot \\ 查看文件 \\ 真机目录", 
+  "date": "", 
+  "title": "工具 - 使用 iBackupbot 查看非越狱真机应用文件"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
