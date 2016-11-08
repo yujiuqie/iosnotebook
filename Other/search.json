@@ -214,7 +214,7 @@
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00026_20151221.md", 
   "tags": "Mac 系统 \\ MAC OS \\ shell \\ 脚本", 
   "date": "", 
-  "title": "Mac 系统 - Mac OS 运行shell脚本"
+  "title": "Mac 系统 - Mac OS 运行 Shell 脚本"
  }, 
  {
   "category": "1. 需要批量重命名文件时", 
@@ -837,7 +837,7 @@
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00115_20151223.md", 
   "tags": "NSMutableSet \\ hash \\ isEqual \\ 重复", 
   "date": "", 
-  "title": "NSMutableSet - 在NSMutableSet中添加自定义对象时怎么保证不重复"
+  "title": "NSMutableSet - 在 NSMutableSet 中添加自定义对象时怎么保证不重复"
  }, 
  {
   "category": "1. 需要为 App 提供系统之外的字体时", 
@@ -1440,6 +1440,13 @@
   "tags": "工具 \\ iBackupbot \\ 查看文件 \\ 真机目录", 
   "date": "", 
   "title": "工具 - 使用 iBackupbot 查看非越狱真机应用文件"
+ }, 
+ {
+  "category": "1. 检测 HTTPS 服务器是否支持 ATS（App Transport Security Settings）", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00202_20161108.md", 
+  "tags": "网络 \\ nscurl \\ HTTPS \\ ATS \\ App Transport Security Settings", 
+  "date": "", 
+  "title": "网络 - 使用 nscurl 命令确认 HTTPS 服务器是否支持 ATS"
  }, 
  {
   "category": "1. 需要安装 Python 模块时", 
