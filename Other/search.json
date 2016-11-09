@@ -1449,6 +1449,13 @@
   "title": "网络 - 使用 nscurl 命令确认 HTTPS 服务器是否支持 ATS"
  }, 
  {
+  "category": "1. 需要进行正则表达式搜索和替换时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00203_20161109.md", 
+  "tags": "Xcode \\ 条件搜索替换 \\ 正则表达式搜索替换 \\ 正则搜索替换 \\ 条件查询替换 \\ 正则查询替换", 
+  "date": "", 
+  "title": "Xcode - 使用条件搜索替换和正则搜索替换"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
