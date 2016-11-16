@@ -527,9 +527,9 @@
  {
   "category": "1. 简化代码，提高统一，避免出错", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00071_20151223.md", 
-  "tags": "宏定义 \\ 工具类", 
+  "tags": "语法 \\ 宏定义 \\ 工具类", 
   "date": "", 
-  "title": "语法 - 开发常用的宏定义"
+  "title": "语法 - 开发常用宏定义"
  }, 
  {
   "category": "1. 需要时钟效果的页面", 
