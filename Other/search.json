@@ -744,9 +744,9 @@
  {
   "category": "1. 单例模式（dispatch_once）* 延时执行（dispatch_after）* 队列需求（dispatch_queue_create）* 孤立队列* 迭代执行* 组（dispatch_group_create）* 事件源* 输入输出* 基准测试* 原子操作* 动画* 回调* 异步", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00102_20151223.md", 
-  "tags": "Block \\ Dispatch \\ GCD \\ 异步 \\ 并行", 
+  "tags": "专题 \\ Block \\ Dispatch \\ GCD \\ 异步 \\ 并行", 
   "date": "", 
-  "title": "Block - 介绍与使用"
+  "title": "专题 - GCD 介绍与使用（一）"
  }, 
  {
   "category": "1. 需要对页面增加手势操作响应时", 
@@ -1178,9 +1178,9 @@
  {
   "category": "1. 熟悉 Objective-C GCD", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00164_20160322.md", 
-  "tags": "语法 \\ GCD", 
+  "tags": "专题 \\ Block \\ Dispatch \\ GCD \\ 异步 \\ 并行", 
   "date": "", 
-  "title": "语法 - 深入理解 GCD"
+  "title": "专题 - GCD 介绍与使用（二）"
  }, 
  {
   "category": "1. 需要 Mac 系统执行定时自动任务时", 
