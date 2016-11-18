@@ -1355,7 +1355,7 @@
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00189_20160818.md", 
   "tags": "网络 \\ CTTelephonyNetworkInfo \\ 移动网络类型 \\ 运营商信息", 
   "date": "", 
-  "title": "网络 - 使用 CTTelephonyNetworkInfo 确定移动网络类型和运营商信息"
+  "title": "网络 - 判断连接类型"
  }, 
  {
   "category": "1. 使用 NSTimer 造成对象无法释放，出现循环引用", 
