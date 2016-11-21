@@ -254,6 +254,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [Python - 使用 Anaconda 进行 Python 科学计算](Python/Python_00006_20160423.md)
    * [Python - 使用 virualenv 创建虚拟 Python 环境](Python/Python_00002_20160123.md)
    * [Python - 学习资源收集](Python/Python_00005_20160314.md)
+   * [Python - 常用文件操作功能函数收集](Python/Python_00008_20161121.md)
    * [Python - 用 Python 和 py2app 写独立的 Mac OS X 应用](Python/Python_00003_20160123.md)
    * [Python - 编码规范](Python/Python_00007_20160603.md)
 
