@@ -1456,6 +1456,13 @@
   "title": "Xcode - 使用条件搜索替换和正则搜索替换"
  }, 
  {
+  "category": "1. 需要对数组进行遍历和倒序遍历时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00204_20161123.md", 
+  "tags": "NSArray \\ NSDictionary \\ NSSet \\ 遍历 \\ 倒序遍历", 
+  "date": "", 
+  "title": "NSArray \\ NSDictionary \\ NSSet - 遍历与倒序遍历"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
@@ -1503,5 +1510,12 @@
   "tags": "Python \\ 编码规范", 
   "date": "", 
   "title": "Python - 编码规范"
+ }, 
+ {
+  "category": "1. 用于文件统计收集功能的函数收集", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00008_20161121.md", 
+  "tags": "Python \\ 文件操作 \\ 功能函数", 
+  "date": "", 
+  "title": "Python - 常用文件操作功能函数收集"
  }
 ]
