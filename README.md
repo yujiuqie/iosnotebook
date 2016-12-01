@@ -209,6 +209,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [界面设计 - iOS 设计相关图标与图像尺寸](Notes/Note_00011_20151220.md)
    * [界面设计 - 相关资料收集](Notes/Note_00169_20160404.md)
    * [相册 - 从系统相册选择照片](Notes/Note_00080_20151223.md)
+   * [相册 - 保存 GIF 动画图片至相册](Notes/Note_00207_20161201.md)
    * [系统服务 - 调用系统应用和系统服务](Notes/Note_00106_20151223.md)
    * [编码规范 - iOS 编码规范(Objective-C & Swift)](Notes/Note_00010_20151220.md)
    * [编码规范 - 使用 Space Commander 实现 iOS 编码规范自动化](Notes/Note_00188_20160805.md)

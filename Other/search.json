@@ -1477,6 +1477,13 @@
   "title": "字体 - iOS 系统字体查询"
  }, 
  {
+  "category": "1. 需要保存 GIF 图片至相册时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00207_20161201.md", 
+  "tags": "相册 \\ GIF \\ 动图保存", 
+  "date": "", 
+  "title": "相册 - 保存 GIF 动画图片至相册"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
