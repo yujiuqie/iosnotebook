@@ -10,6 +10,7 @@
    * [Git - 如何 clone git 项目到一个非空目录](Notes/Note_00186_20170721.md)
    * [Git - 常见错误与解决方案](Notes/Note_00184_20160701.md)
    * [Git - 恢复被误删除分支](Notes/Note_00181_20160526.md)
+   * [Git - 把指定 commit 合并到当前分支](Notes/Note_00208_20161202.md)
    * [JSON - 使用 JSONHelper 进行 JSON 数据解析](Notes/Note_00093_20151223.md)
    * [Keychain - 使用 PDKeychainBindingsController 实现 Keychain 保存数据封装](Notes/Note_00088_20151223.md)
    * [KVO - 使用 KVO 更新 UITableViewCell 显示](Notes/Note_00177_20160504.md)

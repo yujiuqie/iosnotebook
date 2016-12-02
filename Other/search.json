@@ -1484,6 +1484,13 @@
   "title": "相册 - 保存 GIF 动画图片至相册"
  }, 
  {
+  "category": "1. 需要将其他分支 commit 合并至当前分支时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00208_20161202.md", 
+  "tags": "Git \\ 合并指定 commit 合并到当前分支", 
+  "date": "", 
+  "title": "Git - 把指定 commit 合并到当前分支"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
