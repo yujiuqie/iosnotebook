@@ -1498,6 +1498,13 @@
   "title": "工具 - Mac 下 Sublime Text 3 安装使用与插件推荐"
  }, 
  {
+  "category": "1. 升级至 Xcode 8 之后无法联机调试 iOS 7 设备时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00210_20161215.md", 
+  "tags": "Xcode \\ 真机无法调试问题 \\ iOS 7 真机联调 \\ Could not locate device support files", 
+  "date": "", 
+  "title": "Xcode - 真机调试问题 (Could not locate device support files)"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
