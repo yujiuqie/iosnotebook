@@ -1505,6 +1505,13 @@
   "title": "Xcode - 真机调试问题 (Could not locate device support files)"
  }, 
  {
+  "category": "1. 合并主分支至子分支时，使用 rebase 保持主分支树的整洁，方便版本回退和问题追踪2. 主要用在从主分支获取最新 commit 信息，并将当前子分支与主分支进行合并", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00211_20161220.md", 
+  "tags": "Git \\ rebase \\ merge \\ 分支 \\ 合并", 
+  "date": "", 
+  "title": "Git - 使用 rebase 命令保持主分支树的整洁"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
