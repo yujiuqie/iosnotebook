@@ -2,7 +2,7 @@
 
 | 序号 | 录入时间 | 录入人 | 备注 |
 |:--------:|:--------:|:--------:|:--------:|
-| 1 | 2016-10-14 | [Alfred Jiang](https://github.com/viktyz) | - |
+| 1 | 2017-01-06 | [Alfred Jiang](https://github.com/viktyz) | - |
 
 ### 方案名称
 
@@ -51,5 +51,5 @@ AppDelegate \ Launch
 ### 备注
 （无）
 
-Image_00001_00001
-Note_00200_20161014.md
+Image_00200_00001
+Note_00200_20170106.md

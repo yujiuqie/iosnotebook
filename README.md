@@ -197,6 +197,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [时间 - 使用 Benchmarking 精确测量的代码运行时间](Notes/Note_00141_20160219.md)
    * [时间 - 倒计时器的实现](Notes/Note_00068_20151223.md)
    * [时间 - 延时执行解决方案](Notes/Note_00003_20151218.md)
+   * [正则表达式 - 匹配中间字符串](Notes/Note_00213_20170106.md)
    * [正则表达式 - 在 iOS 开发中使用正则表达式](Notes/Note_00091_20151223.md)
    * [测试 - iOS 应用测试 Checklist 以及思维导图](Notes/Note_00040_20151222.md)
    * [测试 - iOS 自动化测试框架介绍](Notes/Note_00020_20151221.md)
