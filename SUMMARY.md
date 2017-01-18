@@ -10,6 +10,7 @@
    * [Git - 使用 rebase 命令保持主分支树的整洁](Notes/Note_00211_20161220.md)
    * [Git - 如何 clone git 项目到一个非空目录](Notes/Note_00186_20170721.md)
    * [Git - 常见错误与解决方案](Notes/Note_00184_20160701.md)
+   * [Git - 恢复至指定 commit](Notes/Note_00214_20170118.md)
    * [Git - 恢复被误删除分支](Notes/Note_00181_20160526.md)
    * [Git - 把指定 commit 合并到当前分支](Notes/Note_00208_20161202.md)
    * [JSON - 使用 JSONHelper 进行 JSON 数据解析](Notes/Note_00093_20151223.md)

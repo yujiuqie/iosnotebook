@@ -1526,6 +1526,13 @@
   "title": "正则表达式 - 匹配中间字符串"
  }, 
  {
+  "category": "1. 需要恢复代码至指定 commit 记录时", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00214_20170118.md", 
+  "tags": "Git \\ 恢复至指定 commit", 
+  "date": "", 
+  "title": "Git - 恢复至指定 commit"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
