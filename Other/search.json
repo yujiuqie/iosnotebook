@@ -1045,7 +1045,7 @@
  {
   "category": "1. 需要为 UIView 等控件设置圆角、阴影、边框效果时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00145_20160308.md", 
-  "tags": "UIView \\ 圆角 \\ 阴影 \\ 边框", 
+  "tags": "UIView \\ 圆角 \\ 阴影 \\ 边框 \\ CAGradientLayer", 
   "date": "", 
   "title": "UIView - 代码设置 UIView 的阴影、圆角、边框效果"
  }, 
