@@ -1533,6 +1533,13 @@
   "title": "Git - 恢复至指定 commit"
  }, 
  {
+  "category": "1. Mac 端打开 Visio 编辑文件2. Mac 端绘制流程图、组织结构图、软件原型以及平面图等", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00215_20170211.md", 
+  "tags": "工具 \\ OmniGraffle \\ 流程图 \\ 组织结构图 \\ 软件原型 \\ 平面图 \\ UML", 
+  "date": "", 
+  "title": "工具 - OmniGraffle 使用介绍"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
