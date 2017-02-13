@@ -130,6 +130,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
    * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
    * [Xcode - 非 App Store 下载官方 Xcode 安装包方法](Notes/Note_00194_20160928.md)
+   * [Xib - 利用 User Defined Runtime Attributes 设置运行时显示属性](Notes/Note_00216_20170213.md)
    * [Xib - 通过 Xib 加载自定义 Cell](Notes/Note_00123_20151223.md)
    * [Xib - 通过 Xib 加载自定义 View](Notes/Note_00124_20151223.md)
    * [专题 - GCD 介绍与使用（一）](Notes/Note_00102_20151223.md)

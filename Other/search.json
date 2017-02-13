@@ -1540,6 +1540,13 @@
   "title": "工具 - OmniGraffle 使用介绍"
  }, 
  {
+  "category": "1. 通过 xib 进行一些运行时页面显示属性设置，比如设置圆角等", 
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00216_20170213.md", 
+  "tags": "Xib \\ User Defined Runtime Attibutes \\ xib 设置圆角", 
+  "date": "", 
+  "title": "Xib - 利用 User Defined Runtime Attributes 设置运行时显示属性"
+ }, 
+ {
   "category": "1. 需要安装 Python 模块时", 
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md", 
   "tags": "Python \\ Mac \\ 模块", 
