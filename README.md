@@ -47,6 +47,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
    * [CoreData - 使用 FYHDBManager 管理 CoreData](Notes/Note_00042_20151222.md)
    * [Git - iOS 开发 gitignore 文件](Notes/Note_00152_20160314.md)
    * [Git - 使用 rebase 命令保持主分支树的整洁](Notes/Note_00211_20161220.md)
+   * [Git - 在本地仓库中删除远程仓库中已经删除的分支](Notes/Note_00217_20170222.md)
    * [Git - 如何 clone git 项目到一个非空目录](Notes/Note_00186_20170721.md)
    * [Git - 常见错误与解决方案](Notes/Note_00184_20160701.md)
    * [Git - 恢复至指定 commit](Notes/Note_00214_20170118.md)
