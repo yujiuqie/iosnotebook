@@ -47,6 +47,7 @@
    * [UIEvent - iOS 事件拦截](Notes/Note_00173_20160414.md)
    * [UIImage - 获取 UIImage 大小与压缩 UIImage](Notes/Note_00136_20160122.md)
    * [UIImageView - 使用 LBBlurredImage 实现图像模糊效果](Notes/Note_00061_20151223.md)
+   * [UIImageView \ UIImage - 图片拉伸技巧](Notes/Note_00218_20170224.md)
    * [UILabel - UILabel 边缘黑线问题](Notes/Note_00170_20160406.md)
    * [UILabel - 悬浮美金单位效果的实现](Notes/Note_00077_20151223.md)
    * [UILabel - 显示多格式文本](Notes/Note_00094_20151223.md)
