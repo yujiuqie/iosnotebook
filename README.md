@@ -128,7 +128,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 * [Xcode - 插件开发学习备忘](Notes/Note_00168_20160329.md)
 * [Xcode - 插件的安装与使用](Notes/Note_00121_20151223.md)
 * [Xcode - 真机调试问题 (Could not locate device support files)](Notes/Note_00210_20161215.md)
-* [Xcode - 系统警告处理( 清除和添加 )](Notes/Note_00193_20160919.md)
+* [Xcode - 系统警告处理（清除和添加）](Notes/Note_00193_20160919.md)
 * [Xcode - 调试相关](Notes/Note_00055_20151222.md)
 * [Xcode - 运行时环境变量( Environment Variables )](Notes/Note_00140_20160205.md)
 * [Xcode - 非 App Store 下载官方 Xcode 安装包方法](Notes/Note_00194_20160928.md)
