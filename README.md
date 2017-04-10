@@ -58,6 +58,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 * [KVO - 使用 KVO 更新 UITableViewCell 显示](Notes/Note_00177_20160504.md)
 * [Mac 系统 - Mac OS 运行 Shell 脚本](Notes/Note_00026_20151221.md)
 * [Mac 系统 - 使用 Automator 批量重命名](Notes/Note_00027_20151221.md)
+* [Mac 系统 - 使用 rvm 更新管理 Ruby 和 gem 版本](Note_00220_20170410.md)
 * [Mac 系统 - 使用 Scp 命令上传下载文件](Notes/Note_00022_20151221.md)
 * [Mac 系统 - 修改 Mac OS X root 密码](Notes/Note_00029_20151221.md)
 * [Mac 系统 - 启用定时自动执行任务](Notes/Note_00165_20160323.md)
