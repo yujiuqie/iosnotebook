@@ -279,5 +279,3 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 * [Python - 编码规范](Python/Python_00007_20160603.md)
 
 ---------
-
-[![Analytics](https://ga-beacon.appspot.com/UA-76943272-1/iosnotebook/readme?pixel)](https://github.com/igrigorik/ga-beacon)
