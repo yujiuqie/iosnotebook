@@ -280,12 +280,4 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 
 ---------
 
-#### JavaScript 相关
-
-1. [JavaScript - 开发工具介绍](JavaScript/JavaScript_00001_20160129.md)
-* [JavaScript - JavaScript To Avoid](JavaScript/JavaScript_00003_20160130.md)
-* [JavaScript - 使用 PDFObject 实现 PDF 文件在线预览](JavaScript/JavaScript_00005_20160513.md)
-* [JavaScript - 正则表达式介绍](JavaScript/JavaScript_00002_20160130.md)
-* [JavaScript - 学习资源收集](JavaScript/JavaScript_00004_20160314.md)
-
 [![Analytics](https://ga-beacon.appspot.com/UA-76943272-1/iosnotebook/readme?pixel)](https://github.com/igrigorik/ga-beacon)
