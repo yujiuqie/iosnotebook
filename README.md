@@ -126,6 +126,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 * [Xcode - 使用 Instruments 的 Core Animation 工具进行 UIKit 性能调优](Notes/Note_00137_20160126.md)
 * [Xcode - 使用 Jenkins 进行 App 自动化打包](Notes/Note_00142_20160229.md)
 * [Xcode - 使用 LLDB 调试代码](Notes/Note_00126_20151224.md)
+* [Xcode - 使用 retain 找出对象神秘的持有者](Notes/Note_00224_20160627.md)
 * [Xcode - 使用条件搜索替换和正则搜索替换](Notes/Note_00203_20161109.md)
 * [Xcode - 在 Xcode 里添加和使用 Debug 宏定义](Notes/Note_00176_20160426.md)
 * [Xcode - 插件开发学习备忘](Notes/Note_00168_20160329.md)
