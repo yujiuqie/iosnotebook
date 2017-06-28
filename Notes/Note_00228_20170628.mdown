@@ -1,0 +1,88 @@
+### 变更记录
+
+| 序号 | 录入时间 | 录入人 | 备注 |
+|:--------:|:--------:|:--------:|:--------:|
+| 1 | 2017-06-28 | [Alfred Jiang](https://github.com/viktyz) | - |
+
+### 方案名称
+
+能耗 - 检测应用 CPU 的使用率 
+
+### 关键字
+
+能耗 \ CPU \ 使用率
+
+### 需求场景
+
+1. 用于判断某些逻辑是否为资源密集型逻辑时
+
+### 参考链接
+
+1. [《高性能 iOS 应用开发》](https://book.douban.com/subject/27013752/)
+
+### 详细内容
+
+通过以下函数可以获得应用对 CPU 的利用率
+
+```objectivec
+//Adapted from: http://stackoverflow.com/questions/8223348/ios-get-cpu-usage-from-application
+
+#import <mach/mach.h>
+#import <assert.h>
+
+-(float)appCPUUsage
+{
+	kern_return_t kr;
+	task_info_data_t tinfo;
+	mach_msg_type_number_t task_info_count;
+
+	task_info_count = TASK_INFO_MAX;
+	kr = task_info(mach_task_self(), TASK_BASIC_INFO, (task_info_t)tinfo, &task_info_count);
+	if (kr != KERN_SUCCESS) {
+		return -1;
+	}
+
+	thread_array_t thread_list;
+	mach_msg_type_number_t thread_count;
+
+	thread_info_data_t thinfo;
+	mach_msg_type_number_t thread_info_count;
+
+	thread_basic_info_t basic_info_th;
+
+	kr = task_threads(mach_task_self(), &thread_list, &thread_count);
+	if (kr != KERN_SUCCESS) {
+		return -1;
+	}
+
+	float tot_cpu = 0;
+	int j;
+
+	for (j = 0; j < thread_count; j++)
+	{
+		thread_info_count = THREAD_INFO_MAX;
+		kr = thread_info(thread_list[j], THREAD_BASIC_INFO,
+						 (thread_info_t)thinfo, &thread_info_count);
+		if (kr != KERN_SUCCESS) {
+			return -1;
+		}
+
+		basic_info_th = (thread_basic_info_t)thinfo;
+
+		if (!(basic_info_th->flags & TH_FLAGS_IDLE)) {
+			tot_cpu = tot_cpu + basic_info_th->cpu_usage / (float)TH_USAGE_SCALE * 100.0;
+		}
+	}
+
+	kr = vm_deallocate(mach_task_self(), (vm_offset_t)thread_list, thread_count * sizeof(thread_t));
+	assert(kr == KERN_SUCCESS);
+
+	return tot_cpu;
+}
+```
+
+### 效果图
+（无）
+
+### 备注
+（无）
