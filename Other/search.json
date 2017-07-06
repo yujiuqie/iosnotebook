@@ -1,1682 +1,1689 @@
 [
  {
-  "category": "1. 需要对应用启动进行类别区分时",
   "tags": "AppDelegate \\ UIApplication \\ iOS程序结构 \\ didFinishLaunchingWithOptions \\ 应用启动",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00001_20151218.md",
+  "category": "1. 需要对应用启动进行类别区分时",
   "title": "AppDelegate - iOS APP Launch Options"
  },
  {
-  "category": "1. 需要将 NSData 类型数据转为 NSString 类型数据时2. 对 NSString 或 NSData 有 Base64 编码需求时",
   "tags": "数据加密 \\ 编码 \\ 解码 \\ Base64 \\ NSData \\ NSString \\ NSData <=> NSString",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00002_20151218.md",
+  "category": "1. 需要将 NSData 类型数据转为 NSString 类型数据时2. 对 NSString 或 NSData 有 Base64 编码需求时",
   "title": "数据加密 - Base64 编码 ( NSData <=> NSString )"
  },
  {
-  "category": "1. 部分需要延时等待的操作",
   "tags": "时间 \\ 延时执行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00003_20151218.md",
+  "category": "1. 部分需要延时等待的操作",
   "title": "时间 - 延时执行解决方案"
  },
  {
-  "category": "1. 需要将较长页面的 Web 内容转为 Image 或 PDF 文件时",
   "tags": "UIWebView \\ UIImage \\ PDF \\ 长页面截图",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00004_20151218.md",
+  "category": "1. 需要将较长页面的 Web 内容转为 Image 或 PDF 文件时",
   "title": "UIWebView - 使用 UIWebViewToFile 实现 UIWebView 内容转为 Image 或 PDF"
  },
  {
-  "category": "1. iPad 端某些 View 无法正常旋转",
   "tags": "UIViewController \\ NavigationController \\ 旋转",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00005_20151218.md",
+  "category": "1. iPad 端某些 View 无法正常旋转",
   "title": "UIViewController - 旋转问题 willRotateToInterfaceOrientation 方法无法正常调用"
  },
  {
-  "category": "1. 需要获取横竖屏宽高时",
   "tags": "版本兼容 \\ iPad \\ 横竖屏 \\ 宽高",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00006_20151218.md",
+  "category": "1. 需要获取横竖屏宽高时",
   "title": "版本兼容 - 7\\8 - 无法正确获取 iPad 横竖屏宽高解决方案"
  },
  {
-  "category": "1. 避免两个按钮（UIButton）很近的时候同时触发事件2. 避免同时点击多个按钮（UIButton）",
   "tags": "UIView \\ UIButton \\ 独占响应事件 \\ 同时点击",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00007_20151218.md",
+  "category": "1. 避免两个按钮（UIButton）很近的时候同时触发事件2. 避免同时点击多个按钮（UIButton）",
   "title": "UIView \\ UIButton - 独占响应事件"
  },
  {
-  "category": "1. 需要文件存储对象数据时2. 部分序列化对象需求",
   "tags": "数据存储 \\ 序列化对象 \\ NSKeyedArchiver \\ NSJSONSeriali \\ 文件存储",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00008_20151218.md",
+  "category": "1. 需要文件存储对象数据时2. 部分序列化对象需求",
   "title": "数据存储 - 序列化对象"
  },
  {
-  "category": "1. 对用户注册密码进行安全强度检测",
   "tags": "数据加密 \\ 密码强度 \\ 输入检测 \\ 安全检测 \\ NAVAJO",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00009_20151218.md",
+  "category": "1. 对用户注册密码进行安全强度检测",
   "title": "数据加密 - 使用 NAVAJO 进行密码安全强度检测"
  },
  {
-  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性",
   "tags": "编码规范 \\ Objective-C \\ Swift",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00010_20151220.md",
+  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性",
   "title": "编码规范 - iOS 编码规范(Objective-C & Swift)"
  },
  {
-  "category": "1. 需要确定 iOS 设计尺寸时",
   "tags": "界面设计 \\ 文档 \\ 图标尺寸 \\ 图像尺寸 \\ 系统默认尺寸",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00011_20151220.md",
+  "category": "1. 需要确定 iOS 设计尺寸时",
   "title": "界面设计 - iOS 设计相关图标与图像尺寸"
  },
  {
-  "category": "1. 创建 iOS 项目工程，组织工程目录",
   "tags": "文档 \\ Xcode \\ 工程 \\ 目录 \\ 项目目录 \\ 结构",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00012_20151220.md",
+  "category": "1. 创建 iOS 项目工程，组织工程目录",
   "title": "文档 - iOS 项目的目录结构"
  },
  {
-  "category": "1. 提交到 App Store 的应用被拒绝时参考",
   "tags": "文档 \\ 审核 \\ App Store",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00013_20151220.md",
+  "category": "1. 提交到 App Store 的应用被拒绝时参考",
   "title": "文档 - 苹果审核未通过问题与解决方案参考"
  },
  {
-  "category": "1. 用于收集优秀的技术文章参考",
   "tags": "专题 \\ 参考 \\ 博客 \\ 文章 \\ 技术",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00014_20151220.md",
+  "category": "1. 用于收集优秀的技术文章参考",
   "title": "专题 - 优秀技术文章参考"
  },
  {
-  "category": "1. 用于收集优秀的技术博客参考",
   "tags": "专题 \\ 参考 \\ 博客 \\ 文章 \\ 技术",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00015_20151220.md",
+  "category": "1. 用于收集优秀的技术博客参考",
   "title": "专题 - 优秀技术博客参考"
  },
  {
-  "category": "1. 可以模块化的业务需求参考",
   "tags": "专题 \\ 模块化 \\ 业务需求",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00016_20151220.md",
+  "category": "1. 可以模块化的业务需求参考",
   "title": "专题 - 值得模块化的业务需求"
  },
  {
-  "category": "1. 帮助了解 iOS App 开发常用设计模式",
   "tags": "设计模式 \\ Design Patterns",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00017_20151221.md",
+  "category": "1. 帮助了解 iOS App 开发常用设计模式",
   "title": "设计模式 - iOS 开发常用设计模式简介"
  },
  {
-  "category": "1. 需要学习 iOS 开发完整知识的参考专题",
   "tags": "专题 \\ iOS 开发 \\ 入门与提高 ",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00018_20151221.md",
+  "category": "1. 需要学习 iOS 开发完整知识的参考专题",
   "title": "专题 - iOS 开发学习资源参考"
  },
  {
-  "category": "1. 需要第三方库快速实现业务需求",
   "tags": "专题 \\ iOS 开发 \\ 第三方库",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00019_20151221.md",
+  "category": "1. 需要第三方库快速实现业务需求",
   "title": "专题 - iOS 开发第三方代码库参考"
  },
  {
-  "category": "1. 需要对 iOS 项目进行自动化测试时",
   "tags": "测试 \\ 自动化测试框架",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00020_20151221.md",
+  "category": "1. 需要对 iOS 项目进行自动化测试时",
   "title": "测试 - iOS 自动化测试框架介绍"
  },
  {
-  "category": "1. 服务器与客户端进行时间同步",
   "tags": "专题 \\ Mac 系统 \\ MAC OS \\ 时间戳 \\ Unix timestamp",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00021_20151221.md",
+  "category": "1. 服务器与客户端进行时间同步",
   "title": "专题 - 时间戳的介绍与使用"
  },
  {
-  "category": "1. 上传本地文件至服务器或者从服务器下载文件",
   "tags": "Mac 系统 \\ MAC OS \\ Scp \\ 上传下载文件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00022_20151221.md",
+  "category": "1. 上传本地文件至服务器或者从服务器下载文件",
   "title": "Mac 系统 - 使用 Scp 命令上传下载文件"
  },
  {
-  "category": "1. 需要 PSD 文件自己切图时",
   "tags": "工具 \\ Cutterman \\ Photoshop \\ 切图 \\ 插件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00023_20151221.md",
+  "category": "1. 需要 PSD 文件自己切图时",
   "title": "工具 - 使用 Cutterman 插件进行快速切图"
  },
  {
-  "category": "1. 需要进行返回数据为 JSON 类型的网络接口 API 测试时",
   "tags": "工具 \\ Mac 系统 \\ MAC OS \\ VisualJSON \\ 网络请求 \\ API \\ POST \\ GET",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00024_20151221.md",
+  "category": "1. 需要进行返回数据为 JSON 类型的网络接口 API 测试时",
   "title": "工具 - 使用 VisualJSON 进行 JSON 格式网络接口 API 测试"
  },
  {
-  "category": "1. 提高 iOS 开发效率",
   "tags": "专题  \\ Mac 系统 \\ MAC OS \\ iOS \\ 开发工具 \\ 开发软件 \\ 工具软件 \\ 辅助工具",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00025_20151221.md",
+  "category": "1. 提高 iOS 开发效率",
   "title": "专题 - iOS 开发工具软件集合"
  },
  {
-  "category": "1. 通过shell脚本简化流程时",
   "tags": "Mac 系统 \\ MAC OS \\ shell \\ 脚本",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00026_20151221.md",
+  "category": "1. 通过shell脚本简化流程时",
   "title": "Mac 系统 - Mac OS 运行 Shell 脚本"
  },
  {
-  "category": "1. 需要批量重命名文件时",
   "tags": "Mac 系统 \\ MAC OS \\ Automator \\ 批量重命名",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00027_20151221.md",
+  "category": "1. 需要批量重命名文件时",
   "title": "Mac 系统 - 使用 Automator 批量重命名"
  },
  {
-  "category": "1. 学习 Markdown 快速入门教程",
   "tags": "工具 \\ Markdown \\ 教程",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00028_20151221.md",
+  "category": "1. 学习 Markdown 快速入门教程",
   "title": "工具 - Markdown 简明教程"
  },
  {
-  "category": "1. 需要系统 root 权限安装工具时",
   "tags": "Mac 系统 \\ MAC OS \\ Root \\ 权限",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00029_20151221.md",
+  "category": "1. 需要系统 root 权限安装工具时",
   "title": "Mac 系统 - 修改 Mac OS X root 密码"
  },
  {
-  "category": "1. 需要对 UILabel / UITextField 行间距等富文本属性进行调整时",
   "tags": "UILabel \\ UITextField \\ 间距 \\ 行间距 \\ 富文本",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00030_20151221.md",
+  "category": "1. 需要对 UILabel / UITextField 行间距等富文本属性进行调整时",
   "title": "UILabel \\ UITextField - 设置行间距等富文本属性"
  },
  {
-  "category": "1. 需要实现类似 NSError 的返回时",
   "tags": "语法 \\ NSError \\ 引用传值 \\ Objective-C 多值返回",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00031_20151221.md",
+  "category": "1. 需要实现类似 NSError 的返回时",
   "title": "语法 - 类似 NSError 的引用传值实现"
  },
  {
-  "category": "1. 需要计算两个字符串相似度的需求",
   "tags": "NSString \\ 相似度 \\ Damerau Levenshtein",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00032_20151221.md",
+  "category": "1. 需要计算两个字符串相似度的需求",
   "title": "NSString - 相似度检测"
  },
  {
-  "category": "1. 页面弹出键盘需要改变页面高度时",
   "tags": "键盘 \\ Keyboard \\ 弹出键盘 \\ 收起键盘",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00033_20151222.md",
+  "category": "1. 页面弹出键盘需要改变页面高度时",
   "title": "键盘 - 弹出与收起改变页面高度"
  },
  {
-  "category": "1. 需要弹出键盘收起键盘的页面避免遮挡问题",
   "tags": "键盘 \\ Keyboard \\ 弹出键盘 \\ 收起键盘",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00034_20151222.md",
+  "category": "1. 需要弹出键盘收起键盘的页面避免遮挡问题",
   "title": "键盘 - 使用 IQKeyboardManager 完美解决IOS开发键盘遮挡"
  },
  {
-  "category": "1. 使用 Core Animation 实现动画需求",
   "tags": "动画 \\ Core Animation \\ CALayer \\ CATransform3D",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00035_20151222.md",
+  "category": "1. 使用 Core Animation 实现动画需求",
   "title": "动画 - Core Animation 之 CATransform3D"
  },
  {
-  "category": "1. 弧度（radians）和角度转换（degree）相互转换",
   "tags": "语法 \\ radians \\ degree",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00036_20151222.md",
+  "category": "1. 弧度（radians）和角度转换（degree）相互转换",
   "title": "语法 - 弧度（radians）和角度转换（degree）"
  },
  {
-  "category": "1. 提高代码可读性",
   "tags": "语法 \\ 字面量 \\ 字面值",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00037_20151222.md",
+  "category": "1. 提高代码可读性",
   "title": "语法 - 使用字面量"
  },
  {
-  "category": "1. 对页面跳转动画有特殊需求时",
   "tags": "动画 \\ 跳转 \\ UINavigationController \\ UINavigationControllerDelegate \\ UIViewControllerAnimatedTransitioning",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00038_20151222.md",
+  "category": "1. 对页面跳转动画有特殊需求时",
   "title": "动画 - 页面跳转 - 自定义模态跳转动画"
  },
  {
-  "category": "1. 移动端与服务器敏感数据通讯加密需求2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "tags": "数据加密 \\ 加密 \\ 解密 \\ AES",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00039_20151222.md",
+  "category": "1. 移动端与服务器敏感数据通讯加密需求2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "title": "数据加密 - AES 加密解密"
  },
  {
-  "category": "1. 应用测试",
   "tags": "测试 \\ Checklist \\ Test \\ 思维导图",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00040_20151222.md",
+  "category": "1. 应用测试",
   "title": "测试 - iOS 应用测试 Checklist 以及思维导图"
  },
  {
-  "category": "1. 较为复杂的撤销删除需求",
   "tags": "设计模式 \\ 命令模式 \\ 撤销删除",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00041_20151222.md",
+  "category": "1. 较为复杂的撤销删除需求",
   "title": "设计模式 - 使用命令模式实现撤销删除"
  },
  {
-  "category": "1. 部分轻型小应用的数据库需求",
   "tags": "CoreData \\ 数据库 \\ FYHDBManager",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00042_20151222.md",
+  "category": "1. 部分轻型小应用的数据库需求",
   "title": "CoreData - 使用 FYHDBManager 管理 CoreData"
  },
  {
-  "category": "1. 在程序进入后台的情况下，如果你想要下载一部很大的视频以便离线观看，或者将用户图片备份到服务器时",
   "tags": "网络 \\ 多任务处理 \\ 后台获取数据 \\ Background Fetch \\ Remote Notification",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00043_20151222.md",
+  "category": "1. 在程序进入后台的情况下，如果你想要下载一部很大的视频以便离线观看，或者将用户图片备份到服务器时",
   "title": "网络 - iOS7 的多任务处理——后台获取（Background Fetch）"
  },
  {
-  "category": "1. 需要获取服务器的通知时",
   "tags": "通知 \\ 多任务处理 \\ 后台获取数据 \\ Background Fetch \\ Remote Notification",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00044_20151222.md",
+  "category": "1. 需要获取服务器的通知时",
   "title": "通知 - iOS7 的多任务处理——远程通知（Remote Notifications）"
  },
  {
-  "category": "1. 使用 Core Animation 实现动画需求",
   "tags": "动画 \\ Core Animation \\ CALayer \\ CAAnimation \\ CAPropertyAnimation \\ CABaseAnimation \\ CAKeyframeAnimation \\ CATransition \\ CAAnimationGroup",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00045_20151222.md",
+  "category": "1. 使用 Core Animation 实现动画需求",
   "title": "动画 - Core Animation 之 CABaseAnimation"
  },
  {
-  "category": "1. CAAnimation 、 CALayer 实现动画需求时 setValue:forKeyPath: 和 valueForKeyPath: 支持的 Key Path 速查",
   "tags": "动画 \\ Core Animation \\ CAAnimation \\ CALayer",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00046_20151222.md",
+  "category": "1. CAAnimation 、 CALayer 实现动画需求时 setValue:forKeyPath: 和 valueForKeyPath: 支持的 Key Path 速查",
   "title": "动画 - Core Animation 之 Key Path"
  },
  {
-  "category": "1. 需要实现网络交互的需求时",
   "tags": "网络 \\ AFNetworking \\ 网络编程 \\ 网络请求",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00047_20151222.md",
+  "category": "1. 需要实现网络交互的需求时",
   "title": "网络 - 使用 AFNetworking 实现网络请求"
  },
  {
-  "category": "1. 移动端与服务器敏感数据通讯加密需求",
   "tags": "数据加密 \\ 加密 \\ 解密 \\ RSA  \\ 非对称加密算法",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00048_20151222.md",
+  "category": "1. 移动端与服务器敏感数据通讯加密需求",
   "title": "数据加密 - RSA 加密(包含JAVA服务器端解密)"
  },
  {
-  "category": "1. 对信息有特殊的 MD5 摘要算法需求",
   "tags": "数据加密 \\ 加密 \\ 解密 \\ MD5 \\ 摘要算法",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00049_20151222.md",
+  "category": "1. 对信息有特殊的 MD5 摘要算法需求",
   "title": "数据加密 - MD5 加密"
  },
  {
-  "category": "1. 需要使用到二维码的扫描与识别场景",
   "tags": "二维码 \\ QRCode \\ 扫描 \\ 识别",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00050_20151222.md",
+  "category": "1. 需要使用到二维码的扫描与识别场景",
   "title": "二维码 - QRCode 生成与识别"
  },
  {
-  "category": "1. 绘制雷达图需求时",
   "tags": "特殊控件 \\ 雷达图 \\ 蛛网图 \\ 五行图",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00051_20151222.md",
+  "category": "1. 绘制雷达图需求时",
   "title": "特殊控件 - 雷达图（蛛网图、五行图）解决方案"
  },
  {
-  "category": "1. 需要分享文档到另一个文件中打开时",
   "tags": "应用间通信 \\ 文档 \\ App共享 \\ 分享数据 \\ 应用程序间通信",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00052_20151222.md",
+  "category": "1. 需要分享文档到另一个文件中打开时",
   "title": "应用间通信 - App 之间共享数据的几种方法"
  },
  {
-  "category": "1. 需要在应用内对某个 View 进行截图操作时",
   "tags": "UIView \\ 代码截图 \\ 截图 \\ 页面图片截取",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00053_20151222.md",
+  "category": "1. 需要在应用内对某个 View 进行截图操作时",
   "title": "UIView - 代码实现截图功能"
  },
  {
-  "category": "1. 需要用户授权通讯录、相册、地址等信息时提前增加提示",
   "tags": "授权 \\ 通讯录 \\ 相册 \\ 地址",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00054_20151222.md",
+  "category": "1. 需要用户授权通讯录、相册、地址等信息时提前增加提示",
   "title": "授权 - 使用 ClusterPrePermissions 更加友好的提示授权操作"
  },
  {
-  "category": "1. 调试常见问题收集",
   "tags": "Xcode \\ Debug \\ Crash",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00055_20151222.md",
+  "category": "1. 调试常见问题收集",
   "title": "Xcode - 调试相关"
  },
  {
-  "category": "1. 录音或者录像显示进度动画",
   "tags": "特殊控件 \\ 动画 \\ record \\ 环形 \\ 记录",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00056_20151222.md",
+  "category": "1. 录音或者录像显示进度动画",
   "title": "特殊控件 - 使用 RecordingCircleOverlayView 实现环形记录仪动画"
  },
  {
-  "category": "1. 用于展示一些较大图片，实现较为炫酷的效果",
   "tags": "特殊控件 \\ 动画 \\ 图片显示 \\ 动作",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00057_20151222.md",
+  "category": "1. 用于展示一些较大图片，实现较为炫酷的效果",
   "title": "特殊控件 - 使用 SubjectiveCPhotoPanner 实现动作感应显示图片"
  },
  {
-  "category": "1. 需要对网络状态进行判断的场景",
   "tags": "网络 \\ 网络连接 \\ Network \\ Connection",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00058_20151222.md",
+  "category": "1. 需要对网络状态进行判断的场景",
   "title": "网络 - 判断连接状态"
  },
  {
-  "category": "1. 移动端与服务器敏感数据通讯2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "tags": "数据加密 \\ 加密 \\ 解密 \\ 3DES",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00059_20151222.md",
+  "category": "1. 移动端与服务器敏感数据通讯2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "title": "数据加密 - 3DES 加密(包含JAVA服务器端解密)"
  },
  {
-  "category": "1. 移动端与服务器敏感数据通讯2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "tags": "数据加密 \\ 加密 \\ 解密 \\ DES",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00060_20151222.md",
+  "category": "1. 移动端与服务器敏感数据通讯2. 移动端本地部分需要保存的敏感数据（NSUserDefaults、文件或数据库）",
   "title": "数据加密 - DES 加密(包含PHP服务器端解密)"
  },
  {
-  "category": "1. 实现页面或图片的模糊效果",
   "tags": "UIImageView \\ 图像模糊 \\ LBBlurredImage \\ UIImage \\ 模糊 \\ 半透明 \\ 毛玻璃 \\ 高斯模糊",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00061_20151223.md",
+  "category": "1. 实现页面或图片的模糊效果",
   "title": "UIImageView - 使用 LBBlurredImage 实现图像模糊效果"
  },
  {
-  "category": "1. 需要实现语音录制需求时",
   "tags": "音视频 \\ Voice \\ 语音录制 \\ POVoiceHUD \\ 音频",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00062_20151223.md",
+  "category": "1. 需要实现语音录制需求时",
   "title": "音视频 - 使用 POVoiceHUD 实现语音录制"
  },
  {
-  "category": "1. 在模拟器中实现地图位置模拟2. 在示例场景中实现位置模拟3. 地图读取默认位置需求",
   "tags": "地图 \\ 坐标 \\ 初始位置 \\ gpx",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00063_20151223.md",
+  "category": "1. 在模拟器中实现地图位置模拟2. 在示例场景中实现位置模拟3. 地图读取默认位置需求",
   "title": "地图 - 为 Xcode 工程添加自定义初始化位置（载入 gpx 文件）"
  },
  {
-  "category": "1. 需要实现列表数据的下拉刷新",
   "tags": "UITableView \\ EGORefreshTableHeaderView \\ 下拉刷新",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00064_20151223.md",
+  "category": "1. 需要实现列表数据的下拉刷新",
   "title": "UITableView - 使用 EGORefreshTableHeaderView 实现下拉刷新 UITableView"
  },
  {
-  "category": "1. 实现电机 SearchBar 进入全屏搜索模式的场景",
   "tags": "UISearchBar \\ UISearchDisplayViewController \\ 搜索 \\ 查询 \\ 全屏搜索",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00065_20151223.md",
+  "category": "1. 实现电机 SearchBar 进入全屏搜索模式的场景",
   "title": "UISearchBar - 通过 UISearchDisplayViewController 实现全屏搜索显示效果"
  },
  {
-  "category": "1. 需要自定义 UINavigationBar 的按钮和标题等",
   "tags": "UINavigationBar \\ navigationItem \\ titleView",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00066_20151223.md",
+  "category": "1. 需要自定义 UINavigationBar 的按钮和标题等",
   "title": "UINavigationBar - 自定义按钮和标题"
  },
  {
-  "category": "1. UITableView 中第一个 cell 和最后一个 cell 距离顶部和底部距离差异",
   "tags": "UITableView \\ UIScrollView \\ contentInset \\ 边距 \\ 间距",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00067_20151223.md",
+  "category": "1. UITableView 中第一个 cell 和最后一个 cell 距离顶部和底部距离差异",
   "title": "UITableView \\ UIScrollView - 通过 contentInset 属性设置周边间距"
  },
  {
-  "category": "1. 倒计时2. 延时执行",
   "tags": "时间 \\ 倒计时 \\ 计时器 \\ 延时执行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00068_20151223.md",
+  "category": "1. 倒计时2. 延时执行",
   "title": "时间 - 倒计时器的实现"
  },
  {
-  "category": "1. 需要对自定义对象的数组进行排序时",
   "tags": "NSArray \\ 自定义对象数组 \\ 数组排序 \\ 排序",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00069_20151223.md",
+  "category": "1. 需要对自定义对象的数组进行排序时",
   "title": "NSArray - 对自定义对象的数组进行排序"
  },
  {
-  "category": "1. 避免短时间内多次重复点击按钮造成的响应错误",
   "tags": "UIButton \\ 多次重复点击 \\ 延时操作",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00070_20151223.md",
+  "category": "1. 避免短时间内多次重复点击按钮造成的响应错误",
   "title": "UIButton - 避免多次重复点击"
  },
  {
-  "category": "1. 简化代码，提高统一，避免出错",
   "tags": "语法 \\ 宏定义 \\ 工具类",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00071_20151223.md",
+  "category": "1. 简化代码，提高统一，避免出错",
   "title": "语法 - 开发常用宏定义"
  },
  {
-  "category": "1. 需要时钟效果的页面",
   "tags": "特殊控件 \\ 时间 \\ 表盘 \\ 钟面 \\ 时钟",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00072_20151223.md",
+  "category": "1. 需要时钟效果的页面",
   "title": "特殊控件 - 钟表效果实现"
  },
  {
-  "category": "1. 测试随机结果的场景需求",
   "tags": "语法 \\ 随机ID \\ 随机字符串 \\ 随机数",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00073_20151223.md",
+  "category": "1. 测试随机结果的场景需求",
   "title": "语法 - 随机数生成实现"
  },
  {
-  "category": "1. 需要生成不重复的ID类字段时",
   "tags": "语法 \\ 唯一ID \\ ID \\ 不重复ID",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00074_20151223.md",
+  "category": "1. 需要生成不重复的ID类字段时",
   "title": "语法 - ID类字段生成实现"
  },
  {
-  "category": "1. 需要将汉字转为英文拼音的场景",
   "tags": "NSString \\ 汉字 \\ 拼音 \\ 转换",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00075_20151223.md",
+  "category": "1. 需要将汉字转为英文拼音的场景",
   "title": "NSString - 汉字转为拼音显示的实现"
  },
  {
-  "category": "1. 需要对本地工程显示文字进行繁体和简体互相转换时",
   "tags": "NSString \\ 简体汉字 \\ 繁体汉字 \\ 繁简转换",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00076_20151223.md",
+  "category": "1. 需要对本地工程显示文字进行繁体和简体互相转换时",
   "title": "NSString - 汉字繁体简体相互转换的实现"
  },
  {
-  "category": "1. 需要实现如效果图显示的特殊的美金单位显示效果时",
   "tags": "UILabel \\ 悬浮 \\ 单位 \\ 美金单位",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00077_20151223.md",
+  "category": "1. 需要实现如效果图显示的特殊的美金单位显示效果时",
   "title": "UILabel - 悬浮美金单位效果的实现"
  },
  {
-  "category": "1. 一些应用的详情页面需要使用 UIScrollView 时",
   "tags": "UIScrollView \\ Autolayout \\ 自适应大小的 UIScrollView",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00078_20151223.md",
+  "category": "1. 一些应用的详情页面需要使用 UIScrollView 时",
   "title": "UIScrollView - 给 UIScrollView 添加 Autolayout 约束条件"
  },
  {
-  "category": "1. 需要用到日期显示和时间操作等场景时",
   "tags": "NSDate \\ 时间操作 \\ 日期",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00079_20151223.md",
+  "category": "1. 需要用到日期显示和时间操作等场景时",
   "title": "NSDate - 时间日期相关操作方法总结"
  },
  {
-  "category": "1. 需要从系统相册选择照片的一类需求",
   "tags": "相册 \\ 拍照 \\ 照片选取 \\ ImagePickerController",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00080_20151223.md",
+  "category": "1. 需要从系统相册选择照片的一类需求",
   "title": "相册 - 从系统相册选择照片"
  },
  {
-  "category": "1. 需要实现 UIScrollView 翻页显示并显示页码标签时",
   "tags": "UIPageControl \\ 翻页 \\ UIScrollView",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00081_20151223.md",
+  "category": "1. 需要实现 UIScrollView 翻页显示并显示页码标签时",
   "title": "UIPageControl - 翻页显示的实现"
  },
  {
-  "category": "1. 需要实现地图显示需求时",
   "tags": "MKMapView \\ CLLocationCoordinate2D \\ CLLocation",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00082_20151223.md",
+  "category": "1. 需要实现地图显示需求时",
   "title": "地图 - MKMapView 地图开发相关总结"
  },
  {
-  "category": "1. 需要设备唯一标识符的场景",
   "tags": "UDID \\ UUID \\ 设备唯一标识符",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00083_20151223.md",
+  "category": "1. 需要设备唯一标识符的场景",
   "title": "UDID - 解决方案介绍与比较"
  },
  {
-  "category": "1. 根据一段文字动态计算出用于显示的 UILabel 或 UITextView 等控件的显示大小",
   "tags": "UILabel \\ Size \\ UITextView \\ CGSize \\ CGFrame",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00084_20151223.md",
+  "category": "1. 根据一段文字动态计算出用于显示的 UILabel 或 UITextView 等控件的显示大小",
   "title": "UILabel - 通过字符串长度计算显示框大小的方法"
  },
  {
-  "category": "1. 需要对 UILable 中字符串进行换行显示时",
   "tags": "UILabel \\ 换行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00085_20151223.md",
+  "category": "1. 需要对 UILable 中字符串进行换行显示时",
   "title": "UILabel - 显示换行的方法"
  },
  {
-  "category": "1. 需要根据不同内容动态显示 Cell 高度时",
   "tags": "UITableViewCell \\ UITableView \\ 高度 \\ 动态调整高度",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00086_20151223.md",
+  "category": "1. 需要根据不同内容动态显示 Cell 高度时",
   "title": "UITableViewCell - 动态修改 UITableViewCell 高度"
  },
  {
-  "category": "1. 实现一个显示等待状态的按钮",
   "tags": "UIButton \\ 等待 \\ 按钮",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00087_20151223.md",
+  "category": "1. 实现一个显示等待状态的按钮",
   "title": "UIButton - 使用 RNLoadingButton 实现等待按钮"
  },
  {
-  "category": "1. 需要保存秘钥串类字串，保证在应用被删除时亦不会消失的需求2. 安全保存用户密码到 keychain 中的需求",
   "tags": "Keychain \\ 秘钥 \\ 安全保存用户密码",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00088_20151223.md",
+  "category": "1. 需要保存秘钥串类字串，保证在应用被删除时亦不会消失的需求2. 安全保存用户密码到 keychain 中的需求",
   "title": "Keychain - 使用 PDKeychainBindingsController 实现 Keychain 保存数据封装"
  },
  {
-  "category": "1. 动画实现子 UIView 的布局动画和动画移动效果",
   "tags": "动画 \\ UIView \\ Layout \\ Animation",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00089_20151223.md",
+  "category": "1. 动画实现子 UIView 的布局动画和动画移动效果",
   "title": "动画 - 使用 POViewFrameBuilder 快速实现 UIView 的动画移动和布局"
  },
  {
-  "category": "1. 需要对文件进行压缩和解压缩操作时",
   "tags": "数据存储 \\ 文件 \\ 压缩 \\ 解压缩 \\ zip \\ unzip",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00090_20151223.md",
+  "category": "1. 需要对文件进行压缩和解压缩操作时",
   "title": "数据存储 - 使用 SSZipArchive 实现文件的压缩和解压缩"
  },
  {
-  "category": "1. 需要对字符串进行正则相关的验证时",
   "tags": "正则表达式 \\ Email 验证 \\ ip 验证 \\ 域名验证 \\ 手机号码验证 \\ 输入验证 \\ NSString",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00091_20151223.md",
+  "category": "1. 需要对字符串进行正则相关的验证时",
   "title": "正则表达式 - 在 iOS 开发中使用正则表达式"
  },
  {
-  "category": "1. 部分页面或控件的代码载入需要实现代码添加约束",
   "tags": "Auto Layout \\ 约束 \\ Constraint \\ 自动布局 \\ 页面布局 \\ Masonry",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00092_20151223.md",
+  "category": "1. 部分页面或控件的代码载入需要实现代码添加约束",
   "title": "Auto Layout - 手动添加 Auto Layout 约束(Masonry)"
  },
  {
-  "category": "1. 解析由网络返回的 JSON 格式数据",
   "tags": "JSON \\ JSONHelper \\ 解析 \\ 网络返回数据",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00093_20151223.md",
+  "category": "1. 解析由网络返回的 JSON 格式数据",
   "title": "JSON - 使用 JSONHelper 进行 JSON 数据解析"
  },
  {
-  "category": "1. 需要显示一段多格式的文本2. 批量替换子字符串显示格式",
   "tags": "UILabel \\ NSMutableAttributedString \\ attributedText \\ 批量替换",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00094_20151223.md",
+  "category": "1. 需要显示一段多格式的文本2. 批量替换子字符串显示格式",
   "title": "UILabel - 显示多格式文本"
  },
  {
-  "category": "1. 判断 optional 字段是否有效\\无效时",
   "tags": "语法 \\ optional \\ ? \\ ! \\ if let",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00095_20151223.md",
+  "category": "1. 判断 optional 字段是否有效\\无效时",
   "title": "语法 - If not let - in Swift"
  },
  {
-  "category": "1. 需要对 APP 的推送功能进行开发与测试时",
   "tags": "推送 \\ Remote Notification \\ 远程推送 \\ 远程通知",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00096_20151223.md",
+  "category": "1. 需要对 APP 的推送功能进行开发与测试时",
   "title": "通知 - 远程推送通知（Remote Notification）的测试与实现"
  },
  {
-  "category": "1. 需要在按钮左上角显示未读数目",
   "tags": "UIButton \\ badge \\ UIBarButtonItem",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00097_20151223.md",
+  "category": "1. 需要在按钮左上角显示未读数目",
   "title": "UIButton - badge 显示的实现(使用 UIBarButtonItem-Badge)"
  },
  {
-  "category": "1. 需要实现侧滑需求时",
   "tags": "UINavigationController \\ 侧滑显示",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00098_20151223.md",
+  "category": "1. 需要实现侧滑需求时",
   "title": "UINavigationController - 使用 SlideNavigationController 实现侧滑需求"
  },
  {
-  "category": "1. 需要实现类似闹铃功能的本地推送通知需求",
   "tags": "通知 \\ 推送 \\ UILocalNotification \\ 本地推送 \\ 本地通知 \\ 闹钟",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00099_20151223.md",
+  "category": "1. 需要实现类似闹铃功能的本地推送通知需求",
   "title": "通知 - 本地推送通知（Local Notification）的测试与实现"
  },
  {
-  "category": "1. 需要对 SDK 所提供系统控件梳理了解时2. 需要自定义系统控件时",
   "tags": "专题 \\ 系统控件 \\ 控件 \\ UIKit \\ 自定义系统控件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00100_20151223.md",
+  "category": "1. 需要对 SDK 所提供系统控件梳理了解时2. 需要自定义系统控件时",
   "title": "专题 - 可视控件介绍与可定制替代方案推荐"
  },
  {
-  "category": "1. 需要对 SDK 所提供系统控制器梳理了解时",
   "tags": "专题 \\ Controller \\ 控制器",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00101_20151223.md",
+  "category": "1. 需要对 SDK 所提供系统控制器梳理了解时",
   "title": "专题 - 控制器介绍"
  },
  {
-  "category": "1. 单例模式（dispatch_once）* 延时执行（dispatch_after）* 队列需求（dispatch_queue_create）* 孤立队列* 迭代执行* 组（dispatch_group_create）* 事件源* 输入输出* 基准测试* 原子操作* 动画* 回调* 异步",
   "tags": "专题 \\ Block \\ Dispatch \\ GCD \\ 异步 \\ 并行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00102_20151223.md",
+  "category": "1. 单例模式（dispatch_once）* 延时执行（dispatch_after）* 队列需求（dispatch_queue_create）* 孤立队列* 迭代执行* 组（dispatch_group_create）* 事件源* 输入输出* 基准测试* 原子操作* 动画* 回调* 异步",
   "title": "专题 - GCD 介绍与使用（一）"
  },
  {
-  "category": "1. 需要对页面增加手势操作响应时",
   "tags": "手势 \\ Gesture Recognizer \\ 手势操作",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00103_20151223.md",
+  "category": "1. 需要对页面增加手势操作响应时",
   "title": "手势 - 实现手势操作介绍"
  },
  {
-  "category": "1. 需要将自己应用内文档分享到其他应用打开时2. 需要自己的应用打开其他应用中的文档时",
   "tags": "应用间通信 \\ 文档 \\ 文档导入 \\ 文档导出 \\ 其他应用共享打开",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00104_20151223.md",
+  "category": "1. 需要将自己应用内文档分享到其他应用打开时2. 需要自己的应用打开其他应用中的文档时",
   "title": "应用间通信 - 文档导入导出实现"
  },
  {
-  "category": "1. 需要实现应用内购买需求时",
   "tags": "内购 \\ Purchase \\ 应用内购买 \\ In-App Purchases",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00105_20151223.md",
+  "category": "1. 需要实现应用内购买需求时",
   "title": "内购 - iOS 内购的快速实现"
  },
  {
-  "category": "1. 需要调用 iOS 系统应用和系统服务时",
   "tags": "系统服务 \\ 相机 \\ 短信 \\ 录音 \\ 位置服务",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00106_20151223.md",
+  "category": "1. 需要调用 iOS 系统应用和系统服务时",
   "title": "系统服务 - 调用系统应用和系统服务"
  },
  {
-  "category": "1. 需要调用非系统应用时",
   "tags": "应用间通信 \\ 调用其他应用 \\ 应用间调用",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00107_20151223.md",
+  "category": "1. 需要调用非系统应用时",
   "title": "应用间通信 - 实现应用间互相调用与数据传递"
  },
  {
-  "category": "1. 需要进行 iOS 音视频录制播放需求的场景",
   "tags": "音视频 \\ 音频播放 \\ 录音 \\ 视频播放 \\ 拍照 \\ 视频录制",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00108_20151223.md",
+  "category": "1. 需要进行 iOS 音视频录制播放需求的场景",
   "title": "音视频 - 音频播放、录音、视频播放、拍照、视频录制"
  },
  {
-  "category": "1. 需要进行 iOS 应用下载和应用评论场景",
   "tags": "openURL \\ App Store \\ 下载 \\ 评论",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00109_20151223.md",
+  "category": "1. 需要进行 iOS 应用下载和应用评论场景",
   "title": "openURL - iOS App 跳转 App Store 下载和 App Store 评论"
  },
  {
-  "category": "1. 需要对所编译文件考虑指令集设置需求时2. 编译静态库需求",
   "tags": "专题 \\ 处理器 \\ 指令集 \\ Architectures",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00110_20151223.md",
+  "category": "1. 需要对所编译文件考虑指令集设置需求时2. 编译静态库需求",
   "title": "专题 - iOS 设备处理器指令集参考"
  },
  {
-  "category": "1. 需要通过 URL 检测是否安装应用，如果已安装则打开应用，如果未安装则跳转到下载页面",
   "tags": "应用间通信 \\ URL \\ Web \\ 邮件打开App \\ Schema",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00111_20151223.md",
+  "category": "1. 需要通过 URL 检测是否安装应用，如果已安装则打开应用，如果未安装则跳转到下载页面",
   "title": "应用间通信 - 通过 URL 检测是否安装并打开应用"
  },
  {
-  "category": "1. 单例场景，如某个全局使用的管理类",
   "tags": "设计模式 \\ 单例 \\ GCD \\ dispatch_once \\ 设计模式",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00112_20151223.md",
+  "category": "1. 单例场景，如某个全局使用的管理类",
   "title": "设计模式 - 单例模式"
  },
  {
-  "category": "1. 需要根据文本内容动态修改控件高度时",
   "tags": "UILabel \\ 高度 \\ 文本高度 \\ UILable 高度",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00113_20151223.md",
+  "category": "1. 需要根据文本内容动态修改控件高度时",
   "title": "UILabel - 计算文本高度"
  },
  {
-  "category": "1. 需要实现 iOS 后台需求时",
   "tags": "专题 \\ 音频播放 \\ 接收位置更新 \\ 执行有限长任务等 \\ 后台获取",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00114_20151223.md",
+  "category": "1. 需要实现 iOS 后台需求时",
   "title": "专题 - 后台模式开发指南"
  },
  {
-  "category": "1. 需要将自定义对象添加入 NSMutableSet，需要保证不重复2. 避免存储自定义重复对象",
   "tags": "NSMutableSet \\ hash \\ isEqual \\ 重复",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00115_20151223.md",
+  "category": "1. 需要将自定义对象添加入 NSMutableSet，需要保证不重复2. 避免存储自定义重复对象",
   "title": "NSMutableSet - 在 NSMutableSet 中添加自定义对象时怎么保证不重复"
  },
  {
-  "category": "1. 需要为 App 提供系统之外的字体时",
   "tags": "字体 \\ 自定义字体 \\ 非系统字体",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00116_20151223.md",
+  "category": "1. 需要为 App 提供系统之外的字体时",
   "title": "字体 - 添加自定义字体"
  },
  {
-  "category": "1. 需要对自定义对象进行相等判断时2. 需要对自定义对象数组进行是否包含判断时",
   "tags": "NSObject \\ 自定义对象 \\ 相等 \\ isEqual \\ Hash",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00117_20151223.md",
+  "category": "1. 需要对自定义对象进行相等判断时2. 需要对自定义对象数组进行是否包含判断时",
   "title": "NSObject - 实现自定义对象 isEqual 方法"
  },
  {
-  "category": "1. 删除 NSString 中的数字、符号，或者修改其中的字符",
   "tags": "NSString \\ 删除 \\ 字符串",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00118_20151223.md",
+  "category": "1. 删除 NSString 中的数字、符号，或者修改其中的字符",
   "title": "NSString - 删除 NSString 中特定字符"
  },
  {
-  "category": "1. 需要在一个长串中筛选出特定的字串，比如一句中文中筛选出金额数字2. 筛选出一个字符串指定字符集合3. 筛选出字符串中全部字母和数字",
   "tags": "NSString \\ 筛选 \\ 字符串",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00119_20151223.md",
+  "category": "1. 需要在一个长串中筛选出特定的字串，比如一句中文中筛选出金额数字2. 筛选出一个字符串指定字符集合3. 筛选出字符串中全部字母和数字",
   "title": "NSString - 筛选出 NSString 中特定字符串"
  },
  {
-  "category": "1. 需要对一个 UIView 或其子类进行完整复制的操作",
   "tags": "UIView \\ 复制 \\ Duplicate",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00120_20151223.md",
+  "category": "1. 需要对一个 UIView 或其子类进行完整复制的操作",
   "title": "UIView - iOS 完全复制一个 UIView"
  },
  {
-  "category": "1. 提高 Xcode 开发效率",
   "tags": "Xcode \\ 插件 \\ Alcatraz",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00121_20151223.md",
+  "category": "1. 提高 Xcode 开发效率",
   "title": "Xcode - 插件的安装与使用"
  },
  {
-  "category": "1. 实现较为复杂的 UITableViewCell 列表和加载大量数据时",
   "tags": "UITableView \\ UITableViewCell \\ reloadData \\ 列表 \\ 滑动 \\ 卡顿 \\ 性能优化",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00122_20151223.md",
+  "category": "1. 实现较为复杂的 UITableViewCell 列表和加载大量数据时",
   "title": "UITableView - 滑动加载性能优化总结"
  },
  {
-  "category": "1. 需要实现较为复杂的 cell 布局，通过 xib 方式实现",
   "tags": "Xib \\ UITableViewCell \\ 自定义",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00123_20151223.md",
+  "category": "1. 需要实现较为复杂的 cell 布局，通过 xib 方式实现",
   "title": "Xib - 通过 Xib 加载自定义 Cell"
  },
  {
-  "category": "1. 需要实现较为复杂的 View 布局，通过 xib 方式实现",
   "tags": "Xib \\ UIView \\ 自定义",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00124_20151223.md",
+  "category": "1. 需要实现较为复杂的 View 布局，通过 xib 方式实现",
   "title": "Xib - 通过 Xib 加载自定义 View"
  },
  {
-  "category": "1. 需要进行网络接口请求的录制测试时",
   "tags": "测试 \\ DVR \\ 网络请求 \\ 测试框架",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00125_20151224.md",
+  "category": "1. 需要进行网络接口请求的录制测试时",
   "title": "测试 - 使用 DVR 进行网络请求数据的录制与测试"
  },
  {
-  "category": "1. 利用 LLDB 调试代码",
   "tags": "Xcode \\ 调试 \\ Debug \\ LLDB",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00126_20151224.md",
+  "category": "1. 利用 LLDB 调试代码",
   "title": "Xcode - 使用 LLDB 调试代码"
  },
  {
-  "category": "1. 希望通过完整的项目工程源代码学习 Mac \\ iOS 开发。",
   "tags": "专题 \\ Mac \\ iOS \\ 完整 \\ 项目 \\ 工程 \\ 源代码",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00127_20151228.md",
+  "category": "1. 希望通过完整的项目工程源代码学习 Mac \\ iOS 开发。",
   "title": "专题 - Mac & iOS 完整开源项目源代码参考"
  },
  {
-  "category": "1. 遇到 Auto Layout 约束冲突时",
   "tags": "Auto Layout \\ 调试 \\ 断点 \\ 约束冲突",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00128_20160105.md",
+  "category": "1. 遇到 Auto Layout 约束冲突时",
   "title": "Auto Layout -  约束冲突断点调试方法"
  },
  {
-  "category": "1. 需要对复杂页面进行调试时",
   "tags": "Xcode \\ 调试 \\ 断点 \\ 页面 \\ 约束",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00129_20160108.md",
+  "category": "1. 需要对复杂页面进行调试时",
   "title": "Xcode - 使用 chisel 提高 LLDB 调试效率"
  },
  {
-  "category": "1. 针对某些带有特殊字符的 URL 无法正确请求数据的场景",
   "tags": "NSURL \\ 特殊字符 \\ 参数 \\ 请求",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00130_20160118.md",
+  "category": "1. 针对某些带有特殊字符的 URL 无法正确请求数据的场景",
   "title": "NSURL - 特殊字符处理"
  },
  {
-  "category": "1. 需要配置 iOS 开发证书相关",
   "tags": "专题 \\ 证书 \\ 开发证书 \\ 应用证书 \\ 真机调试 \\ Appstore",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00131_20160119.md",
+  "category": "1. 需要配置 iOS 开发证书相关",
   "title": "专题 - iOS 应用证书、真机调试与发布 Appstore"
  },
  {
-  "category": "1. 对某对象的 BOOL 类成员变量做肯定判断时，可能出现的判断错误",
   "tags": "语法 \\ Objective-C \\ BOOL \\ 成员变量 \\ 判断",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00132_20160120.md",
+  "category": "1. 对某对象的 BOOL 类成员变量做肯定判断时，可能出现的判断错误",
   "title": "语法 - Objective-C 中 BOOL 类成员变量的判断陷阱"
  },
  {
-  "category": "1. 使用全局变量时赋值 delegate 需要注意的地方",
   "tags": "语法 \\ Objective-C \\ MRC \\ 成员变量 \\ Delegate",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00133_20160120.md",
+  "category": "1. 使用全局变量时赋值 delegate 需要注意的地方",
   "title": "语法 - MRC 下全局变量的 Delegate 陷阱"
  },
  {
-  "category": "1. 需要对 .crash 文件进行分析时",
   "tags": "Xcode \\ 崩溃 \\ 日志 \\ Crash \\ Log \\ dSYM \\ Symbolicatecrash \\ 调试",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00134_20160121.md",
+  "category": "1. 需要对 .crash 文件进行分析时",
   "title": "Xcode - iOS 开发崩溃(Crash)调试"
  },
  {
-  "category": "1. 需要对 App 进行内存分配检测优化时2. [《Instruments 用户指南》](https://viktyz.github.io/_others/ebooks/ebooks/CN_Instruments_User_Guide.html)",
   "tags": "Xcode \\ Instruments \\ Allocations \\ 内存分配",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00135_20160121.md",
+  "category": "1. 需要对 App 进行内存分配检测优化时2. [《Instruments 用户指南》](https://viktyz.github.io/_others/ebooks/ebooks/CN_Instruments_User_Guide.html)",
   "title": "Xcode - 使用 Instruments 的 Allocations 工具检测内存分配情况"
  },
  {
-  "category": "1. 需要对加载的 UIImage 进行压缩时",
   "tags": "UIImage \\ 大小 \\ 尺寸 \\ 压缩",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00136_20160122.md",
+  "category": "1. 需要对加载的 UIImage 进行压缩时",
   "title": "UIImage - 获取 UIImage 大小与压缩 UIImage"
  },
  {
-  "category": "1. 需要对 App 页面显示性能进行优化提高时",
   "tags": "Xcode \\ Instruments \\ Core Animation  \\ UIKit \\ 性能调优",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00137_20160126.md",
+  "category": "1. 需要对 App 页面显示性能进行优化提高时",
   "title": "Xcode - 使用 Instruments 的 Core Animation 工具进行 UIKit 性能调优"
  },
  {
-  "category": "1. 实现iOS音频开发中的各种音效的实现",
   "tags": "音视频 \\ 音频制作 \\ 音效 \\ 播放 \\ 录音 \\ 录制",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00138_20160202.md",
+  "category": "1. 实现iOS音频开发中的各种音效的实现",
   "title": "音视频 - 使用 TheAmazingAudioEngine 框架实现 iOS 音频开发中的各种音效实现"
  },
  {
-  "category": "1. 指定网络接口规则时",
   "tags": "其他 \\ RESTful API \\ 接口 \\ 网络",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00139_20160204.md",
+  "category": "1. 指定网络接口规则时",
   "title": "其他 - RESTful API 设计与最佳实践介绍"
  },
  {
-  "category": "1. 添加环境变量可以帮助提高调试效率，如调试僵尸对象",
   "tags": "Xcode \\ 运行时 \\ 环境变量 \\ Environment Variables",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00140_20160205.md",
+  "category": "1. 添加环境变量可以帮助提高调试效率，如调试僵尸对象",
   "title": "Xcode - 运行时环境变量( Environment Variables )"
  },
  {
-  "category": "1. 需要对函数进行运行时间测量时2. 需要比较两个函数运行时间时",
   "tags": "Benchmarking \\ 测量 \\ 代码运行时间",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00141_20160219.md",
+  "category": "1. 需要对函数进行运行时间测量时2. 需要比较两个函数运行时间时",
   "title": "时间 - 使用 Benchmarking 精确测量的代码运行时间"
  },
  {
-  "category": "1. 希望构建自动化打包的持续集成平台",
   "tags": "Xcode \\ Jenkins \\ 持续集成 \\ 自动化打包",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00142_20160229.md",
+  "category": "1. 希望构建自动化打包的持续集成平台",
   "title": "Xcode - 使用 Jenkins 进行 App 自动化打包"
  },
  {
-  "category": "1. 需要解决中国大陆地图坐标偏移问题",
   "tags": "地图 \\ Eviltransform \\ 坐标 \\ 偏移",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00143_20160229.md",
+  "category": "1. 需要解决中国大陆地图坐标偏移问题",
   "title": "地图 - 使用 Eviltransform 进行火星坐标转换（大陆地区地理坐标偏移问题）"
  },
  {
-  "category": "1. 需要对 UITableView 和 UICollectionView 的绘图进行性能测试时",
   "tags": "Xcode \\ DWURecyclingAlert \\ UITableView \\ UICollectionView \\ 绘图性能测试",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00144_20160301.md",
+  "category": "1. 需要对 UITableView 和 UICollectionView 的绘图进行性能测试时",
   "title": "Xcode - 使用 DWURecyclingAlert 进行 UITableView 和 UICollectionView 的绘图性能测试"
  },
  {
-  "category": "1. 需要为 UIView 等控件设置圆角、阴影、边框效果时",
   "tags": "UIView \\ 圆角 \\ 阴影 \\ 边框 \\ CAGradientLayer",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00145_20160308.md",
+  "category": "1. 需要为 UIView 等控件设置圆角、阴影、边框效果时",
   "title": "UIView - 代码设置 UIView 的阴影、圆角、边框效果"
  },
  {
-  "category": "1. swift、 Objective-C 混编",
   "tags": "语法 \\ Objective-C \\ Swift",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00146_20160308.md",
+  "category": "1. swift、 Objective-C 混编",
   "title": "语法 - Objective-C 与 Swift 互相调用"
  },
  {
-  "category": "1. 利用 XMPP 实现即时聊天",
   "tags": "专题 \\ XMPP \\ 即时聊天",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00147_20160308.md",
+  "category": "1. 利用 XMPP 实现即时聊天",
   "title": "专题 - iOS 使用 XMPP 实现即时聊天"
  },
  {
-  "category": "1. 访问 HTTPS 并且使用 TLS 加密的服务器。",
   "tags": "网络 \\ HTTPS \\ SSL \\ TLS \\ MKNetworkit \\ AFNetworking",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00148_20160308.md",
+  "category": "1. 访问 HTTPS 并且使用 TLS 加密的服务器。",
   "title": "网络 - iOS 访问 HTTPS SSL 和 TLS 双向加密"
  },
  {
-  "category": "1. 向 UITextView 中动态添加内容并希望自动滚动到底部时",
   "tags": "UITextView \\ 动态添加 \\ 自动滚动",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00149_20160309.md",
+  "category": "1. 向 UITextView 中动态添加内容并希望自动滚动到底部时",
   "title": "UITextView - 添加内容后自动滚动到最后一行"
  },
  {
-  "category": "1. 记录一些优秀的开发书籍",
   "tags": "其他 \\ 开发书籍\\ 电子书 \\ pdf 免费电子书 \\ 推荐 ",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00150_20160311.md",
+  "category": "1. 记录一些优秀的开发书籍",
   "title": "其他 - 书籍推荐"
  },
  {
-  "category": "1. 打发时间",
   "tags": "其他 \\ 有趣的网址收集 \\ 有趣的网站收集",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00151_20160314.md",
+  "category": "1. 打发时间",
   "title": "其他 - 有趣的网址收集"
  },
  {
-  "category": "1. 忽略必须要提交的文件",
   "tags": "Git \\ iOS \\ gitignore",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00152_20160314.md",
+  "category": "1. 忽略必须要提交的文件",
   "title": "Git - iOS 开发 gitignore 文件"
  },
  {
-  "category": "1. 提高编程效率，添加代码 Snippets",
   "tags": "Xcode \\ Snippets",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00153_20160314.md",
+  "category": "1. 提高编程效率，添加代码 Snippets",
   "title": "Xcode - 为 Xcode 添加 Snippets"
  },
  {
-  "category": "1. 需要访问 iOS 系统通讯录",
   "tags": "通讯录 \\ Swift ",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00154_20160314.md",
+  "category": "1. 需要访问 iOS 系统通讯录",
   "title": "通讯录 - 访问 iOS 系统通讯录"
  },
  {
-  "category": "1. 绘制标签云效果时",
   "tags": "特殊控件 \\ DBSphereTagCloud",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00155_20160314.md",
+  "category": "1. 绘制标签云效果时",
   "title": "特殊控件 - 使用 DBSphereTagCloud 实现标签云效果"
  },
  {
-  "category": "1. 实现统一风格的代码",
   "tags": "Xcode \\ BBUncrustifyPlugin \\ 代码格式化",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00156_20160315.md",
+  "category": "1. 实现统一风格的代码",
   "title": "Xcode - 使用 BBUncrustifyPlugin-Xcode 插件实现代码格式化"
  },
  {
-  "category": "1. 重构工程，实现代码的疏耦合",
   "tags": "工具 \\ objc_dep \\ 导入依赖 \\ Import Dependancies",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00157_20160315.md",
+  "category": "1. 重构工程，实现代码的疏耦合",
   "title": "工具 - 使用 objc_dep 检查项目中的导入依赖(Import Dependancies)"
  },
  {
-  "category": "1. 需要实现轮播图展示时",
   "tags": "特殊控件 \\ PSCyclingImageView \\ 自动轮播 \\ 循环 \\ 走马灯",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00158_20160316.md",
+  "category": "1. 需要实现轮播图展示时",
   "title": "特殊控件 - 使用 PSCyclingImageView 实现自动循环轮播图"
  },
  {
-  "category": "1. 为实现打包脚本做准备，简化打包流程",
   "tags": "工具 \\ Xcodebuild \\ 命令行打包 \\ 自动化打包 \\ 自动编译打包脚本",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00159_20160320.md",
+  "category": "1. 为实现打包脚本做准备，简化打包流程",
   "title": "工具 - 使用 Xcodebuild 进行命令行打包"
  },
  {
-  "category": "1. 熟悉 iOS 消息传递机制",
   "tags": "语法 \\ 消息传递机制",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00160_20160322.md",
+  "category": "1. 熟悉 iOS 消息传递机制",
   "title": "语法 - iOS 消息传递机制"
  },
  {
-  "category": "1. 熟悉 Objective-C 类结构",
   "tags": "语法 \\ Meta-class \\ 元类",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00161_20160322.md",
+  "category": "1. 熟悉 Objective-C 类结构",
   "title": "语法 - Objective-C 中的 Meta-class 是什么"
  },
  {
-  "category": "1. 熟悉 Objective-C 基础集合类",
   "tags": "语法 \\ 基础集合类",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00162_20160322.md",
+  "category": "1. 熟悉 Objective-C 基础集合类",
   "title": "语法 - Objective-C 基础集合类介绍"
  },
  {
-  "category": "1. 熟悉 Objective-C Runtime",
   "tags": "语法 \\ Runtime",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00163_20160322.md",
+  "category": "1. 熟悉 Objective-C Runtime",
   "title": "语法 - Objective-C Runtime 介绍"
  },
  {
-  "category": "1. 熟悉 Objective-C GCD",
   "tags": "专题 \\ Block \\ Dispatch \\ GCD \\ 异步 \\ 并行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00164_20160322.md",
+  "category": "1. 熟悉 Objective-C GCD",
   "title": "专题 - GCD 介绍与使用（二）"
  },
  {
-  "category": "1. 需要 Mac 系统执行定时自动任务时",
   "tags": "Mac 系统 \\ MAC OS \\ 定时执行 \\ 自动执行",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00165_20160323.md",
+  "category": "1. 需要 Mac 系统执行定时自动任务时",
   "title": "Mac 系统 - 启用定时自动执行任务"
  },
  {
-  "category": "1. 为其他项目提供 framework 框架时",
   "tags": "专题 \\ iOS 框架 \\ framework",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00166_20160324.md",
+  "category": "1. 为其他项目提供 framework 框架时",
   "title": "专题 - 创建自己的 iOS 框架"
  },
  {
-  "category": "1. 记录使用过程中的备忘",
   "tags": "UITextField \\ 使用备忘",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00167_20160328.md",
+  "category": "1. 记录使用过程中的备忘",
   "title": "UITextField - 使用备忘"
  },
  {
-  "category": "1. 开发自定义 Xcode 插件",
   "tags": "Xcode \\ 插件开发 \\ 开发插件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00168_20160329.md",
+  "category": "1. 开发自定义 Xcode 插件",
   "title": "Xcode - 插件开发学习备忘"
  },
  {
-  "category": "1. 界面设计参考",
   "tags": "界面设计 \\ UI \\ UE \\ 资料收集 \\ Material Design",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00169_20160404.md",
+  "category": "1. 界面设计参考",
   "title": "界面设计 - 相关资料收集"
  },
  {
-  "category": "1. 代码实现 UILabel 时出现的边缘黑线问题",
   "tags": "UILabel \\ 边缘黑线",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00170_20160406.md",
+  "category": "1. 代码实现 UILabel 时出现的边缘黑线问题",
   "title": "UILabel - UILabel 边缘黑线问题"
  },
  {
-  "category": "1. 解决 UIScrollView \\ UITableViewCell 添加 UIButton 时不响应滑动操作问题2. 解决 UIScrollView 中添加 UITapGestureRecognizer 跟 UIButton 点击事件冲突",
   "tags": "手势 \\  UILabel \\ UIView \\ 单击手势 \\  UIScrollView \\ UITableViewCell \\ UIButton \\ 滑动",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00171_20160406.md",
+  "category": "1. 解决 UIScrollView \\ UITableViewCell 添加 UIButton 时不响应滑动操作问题2. 解决 UIScrollView 中添加 UITapGestureRecognizer 跟 UIButton 点击事件冲突",
   "title": "UIScrollView - UIScrollView 添加 UIButton 时不响应滑动操作"
  },
  {
-  "category": "1. 需要对手势操作的点击位置进行判断时2. 判断点击位置是否在某控件中时",
   "tags": "手势 \\ 点击位置 \\ 区域 \\ UITapGestureRecognizer",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00172_20160414.md",
+  "category": "1. 需要对手势操作的点击位置进行判断时2. 判断点击位置是否在某控件中时",
   "title": "手势 - 判断点击位置是否在某区域 ( View ) 内"
  },
  {
-  "category": "1. 需要响应任意点击事件2. 需要接收任意交互事件信息",
   "tags": "UIEvent \\ 事件拦截 \\ 捕获任意点击事件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00173_20160414.md",
+  "category": "1. 需要响应任意点击事件2. 需要接收任意交互事件信息",
   "title": "UIEvent - iOS 事件拦截"
  },
  {
-  "category": "1. 需要对存储于数据库中的数据进行加密时",
   "tags": "数据库 \\ SQLCipher \\ 加密",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00174_20160423.md",
+  "category": "1. 需要对存储于数据库中的数据进行加密时",
   "title": "数据库 - 使用 SQLCipher 进行数据库加密存储"
  },
  {
-  "category": "1. 需要对 Block 异步回调进行结果测试时2. 需要对 Delegate 异步回调进行结果测试时",
   "tags": "测试 \\ 单元测试 \\ 异步函数 \\ delegate \\ 代理 \\ block",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00175_20160425.md",
+  "category": "1. 需要对 Block 异步回调进行结果测试时2. 需要对 Delegate 异步回调进行结果测试时",
   "title": "测试 - 异步函数的单元测试"
  },
  {
-  "category": "1. 需要为工程设置仅在 Debug 模式下有效的代码时",
   "tags": "Xcode \\ Debug 模式 \\ 宏定义",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00176_20160426.md",
+  "category": "1. 需要为工程设置仅在 Debug 模式下有效的代码时",
   "title": "Xcode - 在 Xcode 里添加和使用 Debug 宏定义"
  },
  {
-  "category": "1. 通过 KVO 实现 UITableViewCell 自更新，避免重复 Reload Cell",
   "tags": "KVO \\ UITableViewCell \\ 观察属性",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00177_20160504.md",
+  "category": "1. 通过 KVO 实现 UITableViewCell 自更新，避免重复 Reload Cell",
   "title": "KVO - 使用 KVO 更新 UITableViewCell 显示"
  },
  {
-  "category": "1. 了解 iOS 设计基础",
   "tags": "文档 \\ 人机交互指南 \\ 人机界面指南",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00178_20160510.md",
+  "category": "1. 了解 iOS 设计基础",
   "title": "文档 - iOS 人机交互指南"
  },
  {
-  "category": "1. 进行文件操作2. 管理数据文件",
   "tags": "数据存储 \\ 文件操作 \\ 文件夹 \\ 文件目录操作 \\ 笔记",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00179_20160512.md",
+  "category": "1. 进行文件操作2. 管理数据文件",
   "title": "数据存储 - 文件(目录)操作笔记"
  },
  {
-  "category": "1. 进行 NSString \\ NSData \\ NSArray \\ NSDictionary 格式转换 ",
   "tags": "语法 \\ 数据存储 \\ 格式转换  \\ NSString \\ NSData \\ NSArray \\ NSDictionary \\ NSArray / NSDictionary <=> NSData <=> NSString",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00180_20160512.md",
+  "category": "1. 进行 NSString \\ NSData \\ NSArray \\ NSDictionary 格式转换 ",
   "title": "语法 - NSString \\ NSData \\ NSArray \\ NSDictionary 格式转换 ( NSArray / NSDictionary <=> NSData <=> NSString )"
  },
  {
-  "category": "1. 用于恢复被误删除的 Git 分支",
   "tags": "Git \\ 恢复删除分支 \\ 强制删除 \\ 分支恢复 \\ 误删除",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00181_20160526.md",
+  "category": "1. 用于恢复被误删除的 Git 分支",
   "title": "Git - 恢复被误删除分支"
  },
  {
-  "category": "1. 测试 ping 连接",
   "tags": "网络 \\ ping \\ 检测服务器连接",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00182_20160612.md",
+  "category": "1. 测试 ping 连接",
   "title": "网络 - 使用 SimplePingHelper 在 iPhone / iPad 上 ping 指定服务器"
  },
  {
-  "category": "1. 需要实现单次记录的需求场景，避免重复赋值与重复记录",
   "tags": "语法 \\ NSUserDefaults \\ registerDefaults \\ 单次记录",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00183_20160616.md",
+  "category": "1. 需要实现单次记录的需求场景，避免重复赋值与重复记录",
   "title": "语法 - 通过 registerDefaults 实现单次记录需求"
  },
  {
-  "category": "1. 使用 Git 时遇到的常见错误解决方案",
   "tags": "Git \\ 常见错误 \\ 解决方案",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00184_20160701.md",
+  "category": "1. 使用 Git 时遇到的常见错误解决方案",
   "title": "Git - 常见错误与解决方案"
  },
  {
-  "category": "1. 删除 NSString 中的前后空格或回车符",
   "tags": "NSString \\ 删除 \\ 字符串 \\ 首尾空格",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00185_20160714.md",
+  "category": "1. 删除 NSString 中的前后空格或回车符",
   "title": "NSString - 删除 NSString 中前后空格或回车符"
  },
  {
-  "category": "1. 对一个主工程的子工程进行单独的 Git 管理时",
   "tags": "Git \\ clone git 非空目录",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00186_20170721.md",
+  "category": "1. 对一个主工程的子工程进行单独的 Git 管理时",
   "title": "Git - 如何 clone git 项目到一个非空目录"
  },
  {
-  "category": "1. 提高 iOS 开发调试效率",
   "tags": "专题  \\ iOS \\ 开发调试代码",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00187_20160722.md",
+  "category": "1. 提高 iOS 开发调试效率",
   "title": "专题 - iOS 开发调试代码集合"
  },
  {
-  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性2. 简化编码规范校验过程",
   "tags": "编码规范 \\ Space Commander \\ spacecommander \\ 自动化",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00188_20160805.md",
+  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性2. 简化编码规范校验过程",
   "title": "编码规范 - 使用 Space Commander 实现 iOS 编码规范自动化"
  },
  {
-  "category": "1. 需要确认手机移动网络状态和运营商名称等信息",
   "tags": "网络 \\ CTTelephonyNetworkInfo \\ 移动网络类型 \\ 运营商信息",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00189_20160818.md",
+  "category": "1. 需要确认手机移动网络状态和运营商名称等信息",
   "title": "网络 - 判断连接类型"
  },
  {
-  "category": "1. 使用 NSTimer 造成对象无法释放，出现循环引用",
   "tags": "NSTimer \\ 循环引用 \\ Retain Cycle \\ 内存泄漏",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00190_20160824.md",
+  "category": "1. 使用 NSTimer 造成对象无法释放，出现循环引用",
   "title": "NSTimer - 解决 NSTimer 的循环引用问题导致的内存泄漏"
  },
  {
-  "category": "1. 需要确认 iOS 设备屏幕分辨率时",
   "tags": "界面设计 \\ 屏幕 \\ 分辨率",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00191_20160825.md",
+  "category": "1. 需要确认 iOS 设备屏幕分辨率时",
   "title": "界面设计 - iOS 设备屏幕分辨率"
  },
  {
-  "category": "1. 利用 Method Swizzling 对系统方法进行替换和追加行为",
   "tags": "Runtime \\ Method Swizzling \\ Aspect Oriented Programming \\ 面向切面编程",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00192_20160909.md",
+  "category": "1. 利用 Method Swizzling 对系统方法进行替换和追加行为",
   "title": "Runtime - 使用 Aspects 实现 Method Swizzling 和 AOP 实践"
  },
  {
-  "category": "1. 消除系统中的编译警告",
   "tags": "Xcode \\ 添加警告 \\ 清除警告 \\ Warning",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00193_20160919.md",
+  "category": "1. 消除系统中的编译警告",
   "title": "Xcode - 系统警告处理（清除和添加）"
  },
  {
-  "category": "1. 需要同时安装多个 Xcode 时2. 需要安装较老版本 Xcode 时",
   "tags": "Xcode \\ dmg \\ Xcode 安装包",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00194_20160928.md",
+  "category": "1. 需要同时安装多个 Xcode 时2. 需要安装较老版本 Xcode 时",
   "title": "Xcode - 非 App Store 下载官方 Xcode 安装包方法"
  },
  {
-  "category": "1. 自动记录 Terminal 活动以便于查找出错的地方",
   "tags": "Mac 系统 \\ Terminal \\ 终端",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00195_20160930.md",
+  "category": "1. 自动记录 Terminal 活动以便于查找出错的地方",
   "title": "Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动"
  },
  {
-  "category": "1. 熟悉 iOS 视图层相关编程",
   "tags": "专题 \\ Views \\ 视图",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00196_20160930.md",
+  "category": "1. 熟悉 iOS 视图层相关编程",
   "title": "专题 - objc.io Issue 3: 视图 相关文章五篇"
  },
  {
-  "category": "1. 在自己的应用中打开某个第三方应用或系统应用并调用指定功能",
   "tags": "应用间通信 \\ URL Schemes",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00197_20161008.md",
+  "category": "1. 在自己的应用中打开某个第三方应用或系统应用并调用指定功能",
   "title": "应用间通信 - URL Schemes"
  },
  {
-  "category": "1. 需要了解 Xcode 工程组织结构时2. 需要解决 Xcode Xcodeproj 文件冲突时",
   "tags": "Xcode \\ Xcodeproj 介绍 \\ 工程目录结构 \\ 工程组织结构",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00198_20161009.md",
+  "category": "1. 需要了解 Xcode 工程组织结构时2. 需要解决 Xcode Xcodeproj 文件冲突时",
   "title": "Xcode - Xcodeproj 介绍"
  },
  {
-  "category": "1. 需要对 NSData 进行压缩解压缩存取时",
   "tags": "NSData \\ 文件 \\ 压缩与解压缩",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00199_20161013.md",
+  "category": "1. 需要对 NSData 进行压缩解压缩存取时",
   "title": "NSData - NSData 数据压缩与解压缩"
  },
  {
-  "category": "1. 需要确认设备型号时2. 需要确认电量信息状态时",
   "tags": "UIDevice \\ DeviceKit \\ 设备 \\ 模拟器 \\ 电量信息与状态",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00200_20161014.md",
+  "category": "1. 需要确认设备型号时2. 需要确认电量信息状态时",
   "title": "UIDevice - 通过 DeviceKit 更方便的获取硬件设备参数"
  },
  {
-  "category": "1. 解决 iOS 8 之后 PP 助手、iTools 等工具难以查看非越狱机器 App 目录问题2. 修改非越狱机器下 App 中文件",
   "tags": "工具 \\ iBackupbot \\ 查看文件 \\ 真机目录",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00201_20161018.md",
+  "category": "1. 解决 iOS 8 之后 PP 助手、iTools 等工具难以查看非越狱机器 App 目录问题2. 修改非越狱机器下 App 中文件",
   "title": "工具 - 使用 iBackupbot 查看非越狱真机应用文件"
  },
  {
-  "category": "1. 检测 HTTPS 服务器是否支持 ATS（App Transport Security Settings）",
   "tags": "网络 \\ nscurl \\ HTTPS \\ ATS \\ App Transport Security Settings",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00202_20161108.md",
+  "category": "1. 检测 HTTPS 服务器是否支持 ATS（App Transport Security Settings）",
   "title": "网络 - 使用 nscurl 命令确认 HTTPS 服务器是否支持 ATS"
  },
  {
-  "category": "1. 需要进行正则表达式搜索和替换时",
   "tags": "Xcode \\ 条件搜索替换 \\ 正则表达式搜索替换 \\ 正则搜索替换 \\ 条件查询替换 \\ 正则查询替换",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00203_20161109.md",
+  "category": "1. 需要进行正则表达式搜索和替换时",
   "title": "Xcode - 使用条件搜索替换和正则搜索替换"
  },
  {
-  "category": "1. 需要对数组进行遍历和倒序遍历时",
   "tags": "NSArray \\ NSDictionary \\ NSSet \\ 遍历 \\ 倒序遍历",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00204_20161123.md",
+  "category": "1. 需要对数组进行遍历和倒序遍历时",
   "title": "NSArray \\ NSDictionary \\ NSSet - 遍历与倒序遍历"
  },
  {
-  "category": "1. 学习 CLANG 相关技术",
   "tags": "Xcode \\ CLANG",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00205_20161128.md",
+  "category": "1. 学习 CLANG 相关技术",
   "title": "Xcode - CLANG 技术学习参考"
  },
  {
-  "category": "1. 需要查询 iOS 设备系统支持字体时",
   "tags": "字体 \\ 系统字体",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00206_20161130.md",
+  "category": "1. 需要查询 iOS 设备系统支持字体时",
   "title": "字体 - iOS 系统字体查询"
  },
  {
-  "category": "1. 需要保存 GIF 图片至相册时",
   "tags": "相册 \\ GIF \\ 动图保存",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00207_20161201.md",
+  "category": "1. 需要保存 GIF 图片至相册时",
   "title": "相册 - 保存 GIF 动画图片至相册"
  },
  {
-  "category": "1. 需要将其他分支 commit 合并至当前分支时",
   "tags": "Git \\ 合并指定 commit 合并到当前分支",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00208_20161202.md",
+  "category": "1. 需要将其他分支 commit 合并至当前分支时",
   "title": "Git - 把指定 commit 合并到当前分支"
  },
  {
-  "category": "1. Sublime Text 3 使用参考",
   "tags": "工具 \\ Sublime Text 3 \\ 插件安装",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00209_20161202.md",
+  "category": "1. Sublime Text 3 使用参考",
   "title": "工具 - Sublime Text 3 - Mac 下 Sublime Text 3 安装使用与插件推荐"
  },
  {
-  "category": "1. 升级至 Xcode 8 之后无法联机调试 iOS 7 设备时",
   "tags": "Xcode \\ 真机无法调试问题 \\ iOS 7 真机联调 \\ Could not locate device support files",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00210_20161215.md",
+  "category": "1. 升级至 Xcode 8 之后无法联机调试 iOS 7 设备时",
   "title": "Xcode - 真机调试问题 (Could not locate device support files)"
  },
  {
-  "category": "1. 合并主分支至子分支时，使用 rebase 保持主分支树的整洁，方便版本回退和问题追踪2. 主要用在从主分支获取最新 commit 信息，并将当前子分支与主分支进行合并",
   "tags": "Git \\ rebase \\ merge \\ 分支 \\ 合并",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00211_20161220.md",
+  "category": "1. 合并主分支至子分支时，使用 rebase 保持主分支树的整洁，方便版本回退和问题追踪2. 主要用在从主分支获取最新 commit 信息，并将当前子分支与主分支进行合并",
   "title": "Git - 使用 rebase 命令保持主分支树的整洁"
  },
  {
-  "category": "1. 需要对真机进行 HTTPS 请求抓包时",
   "tags": "网络 \\ 抓包 \\ HTTPS \\ Fiddler \\ Charles",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00212_20161226.md",
+  "category": "1. 需要对真机进行 HTTPS 请求抓包时",
   "title": "网络 - HTTPS 网络请求真机抓包（Mac & Windows）"
  },
  {
-  "category": "1. 获取满足指定首尾字符串的中间字符串",
   "tags": "正则表达式 \\ 匹配字符串",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00213_20170106.md",
+  "category": "1. 获取满足指定首尾字符串的中间字符串",
   "title": "正则表达式 - 匹配中间字符串"
  },
  {
-  "category": "1. 需要恢复代码至指定 commit 记录时",
   "tags": "Git \\ 恢复至指定 commit",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00214_20170118.md",
+  "category": "1. 需要恢复代码至指定 commit 记录时",
   "title": "Git - 恢复至指定 commit"
  },
  {
-  "category": "1. Mac 端打开 Visio 编辑文件2. Mac 端绘制流程图、组织结构图、软件原型以及平面图等",
   "tags": "工具 \\ OmniGraffle \\ 流程图 \\ 组织结构图 \\ 软件原型 \\ 平面图 \\ UML",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00215_20170211.md",
+  "category": "1. Mac 端打开 Visio 编辑文件2. Mac 端绘制流程图、组织结构图、软件原型以及平面图等",
   "title": "工具 - OmniGraffle 使用介绍"
  },
  {
-  "category": "1. 通过 xib 进行一些运行时页面显示属性设置，比如设置圆角等",
   "tags": "Xib \\ User Defined Runtime Attibutes \\ xib 设置圆角",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00216_20170213.md",
+  "category": "1. 通过 xib 进行一些运行时页面显示属性设置，比如设置圆角等",
   "title": "Xib - 利用 User Defined Runtime Attributes 设置运行时显示属性"
  },
  {
-  "category": "1. 在本地仓库中删除远程仓库中已经删除的分支",
   "tags": "Git \\ 在本地仓库中删除远程仓库中已经删除的分支 \\ prune",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00217_20170222.md",
+  "category": "1. 在本地仓库中删除远程仓库中已经删除的分支",
   "title": "Git - 在本地仓库中删除远程仓库中已经删除的分支"
  },
  {
-  "category": "1. 需要对 UIImageView 中 UIImage 图片进行拉伸时",
   "tags": "UIImageView \\ UIImage \\ 图片拉伸技巧",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00218_20170224.md",
+  "category": "1. 需要对 UIImageView 中 UIImage 图片进行拉伸时",
   "title": "UIImageView \\ UIImage - 图片拉伸技巧"
  },
  {
-  "category": "1. 需要对 Objective-C 代码进行静态代码分析时",
   "tags": "工具 \\ 静态代码分析",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00219_20170408.md",
+  "category": "1. 需要对 Objective-C 代码进行静态代码分析时",
   "title": "工具 - 使用 OCLint 进行静态代码分析"
  },
  {
-  "category": "1. 需要更新 Mac 系统下 Ruby 和 gem 相关版本时",
   "tags": "Mac 系统 \\ Ruby \\ gem \\ rvm",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00220_20170410.md",
+  "category": "1. 需要更新 Mac 系统下 Ruby 和 gem 相关版本时",
   "title": "Mac 系统 - 使用 rvm 更新管理 Ruby 和 gem 版本"
  },
  {
-  "category": "1. Sublime Text 3 中关闭记住上次打开的文件2. 解决部分默认打开上次打开文件导致的无限保存 bug",
   "tags": "工具 \\ Sublime Text 3 \\ 关闭记住上次打开文件",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00221_20170507.md",
+  "category": "1. Sublime Text 3 中关闭记住上次打开的文件2. 解决部分默认打开上次打开文件导致的无限保存 bug",
   "title": "工具 - Sublime Text 3 - 禁用启动时打开上次文件"
  },
  {
-  "category": "1. 局域网搭建 Web 服务器测试环境",
   "tags": "Mac 系统 \\ Web 服务器",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00222_20170601.md",
+  "category": "1. 局域网搭建 Web 服务器测试环境",
   "title": "Mac 系统 - 启用 Mac 本地 Web 服务器"
  },
  {
-  "category": "1. 正确的弹出提示（Toast View）展示逻辑梳理",
   "tags": "UIWindow \\ Toast View \\ 键盘 \\ UIRemoteKeyboardWindow",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00223_20170607.md",
+  "category": "1. 正确的弹出提示（Toast View）展示逻辑梳理",
   "title": "UIWindow - 关于弹出提示（Toast View）与键盘以及 Window 的关系梳理"
  },
  {
-  "category": "1. 需要在 Objective-C 中支持枚举类型与字符串转换时",
   "tags": "语法 \\ 枚举类型 \\ Enum \\ 字符串 \\ NSString \\ 转换 \\ 转化",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00224_20170616.md",
+  "category": "1. 需要在 Objective-C 中支持枚举类型与字符串转换时",
   "title": "语法 - Objective-C 中实现枚举类型（Enum）与字符串（NSString）互相转换"
  },
  {
-  "category": "1. 通过获取对象的引用图来确定持有者，从而发现并解决内存泄露问题",
   "tags": "内存管理 \\ retain \\ 对象持有者 \\ 内存泄露",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00225_20170627.md",
+  "category": "1. 通过获取对象的引用图来确定持有者，从而发现并解决内存泄露问题",
   "title": "内存管理 - 使用 retain 找出对象的持有者"
  },
  {
-  "category": "1. 需要获取生产环境低内存警告时的内存使用情况",
   "tags": "内存管理 \\ 内存使用情况 \\ 可用内存 \\ 已用内存 \\ Memory",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00226_20170627.md",
+  "category": "1. 需要获取生产环境低内存警告时的内存使用情况",
   "title": "内存管理 - 获取可用和已用的内存大小"
  },
  {
-  "category": "1. 需要考虑电池的电量以决定是否执行资源密集消耗型操作时",
   "tags": "能耗 \\ 电池 \\ 电量 \\ 代码感知",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00227_20170628.md",
+  "category": "1. 需要考虑电池的电量以决定是否执行资源密集消耗型操作时",
   "title": "能耗 - 电池电量的代码感知"
  },
  {
-  "category": "1. 用于判断某些逻辑是否为资源密集型逻辑时",
   "tags": "能耗 \\ CPU \\ 使用率",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00228_20170628.md",
+  "category": "1. 用于判断某些逻辑是否为资源密集型逻辑时",
   "title": "能耗 - 检测应用 CPU 的使用率 "
  },
  {
-  "category": "1. 线程安全且高吞吐量的缓存模型2. 将读写锁应用于并发读写",
   "tags": "并发编程 \\ 多线程 \\ 线程安全 \\ 缓存",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00229_20170629.md",
+  "category": "1. 线程安全且高吞吐量的缓存模型2. 将读写锁应用于并发读写",
   "title": "并发编程 - 线程安全且高吞吐量的缓存模型"
  },
  {
-  "category": "1. 当用户快速滚动列表时，虽然使用视图重用和渲染，但仍然可能发生丢帧卡顿现象，通过界面外壳可以做进一步优化",
   "tags": "UITableViewCell \\ UITableView \\ 界面外壳 \\ 滑动优化",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00230_20170706.md",
+  "category": "1. 当用户快速滚动列表时，虽然使用视图重用和渲染，但仍然可能发生丢帧卡顿现象，通过界面外壳可以做进一步优化",
   "title": "UITableViewCell - 通过 UITableViewCell 界面外壳优化列表滑动显示"
  },
  {
-  "category": "1. 需要安装 Python 模块时",
+  "tags": "网络 \\ Protocol Buffers \\ 二进制格式  \\ Protobuf",
+  "date": "",
+  "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00231_20170706.md",
+  "category": "1. 用于分布式应用之间的数据通信或者异构环境下的数据交换",
+  "title": "网络 - 使用 Protocol Buffers 数据格式进行网络数据传输"
+ },
+ {
   "tags": "Python \\ Mac \\ 模块",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00001_20160123.md",
+  "category": "1. 需要安装 Python 模块时",
   "title": "Python - Mac 下安装 Python 模块"
  },
  {
-  "category": "1. 让同一台电脑运行多个不同版本的 Python 程序",
   "tags": "Python \\ 虚拟机 \\ 虚拟环境 \\ virualenv",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00002_20160123.md",
+  "category": "1. 让同一台电脑运行多个不同版本的 Python 程序",
   "title": "Python - 使用 virualenv 创建虚拟 Python 环境"
  },
  {
-  "category": "1. 使用 Python 和 py2app 创建 Mac App",
   "tags": "Python \\ py2app \\ Mac OS \\ APP",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00003_20160123.md",
+  "category": "1. 使用 Python 和 py2app 创建 Mac App",
   "title": "Python - 用 Python 和 py2app 写独立的 Mac OS X 应用"
  },
  {
-  "category": "1. 学习一些有趣的开源脚本和工具",
   "tags": "Python \\ 脚本 \\ 工具 \\ 收集",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00004_20160314.md",
+  "category": "1. 学习一些有趣的开源脚本和工具",
   "title": "Python - Python 工具收集"
  },
  {
-  "category": "1. Python 学习资源收集参考",
   "tags": "专题 \\ Python \\ 学习资源",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00005_20160314.md",
+  "category": "1. Python 学习资源收集参考",
   "title": "Python - 学习资源收集"
  },
  {
-  "category": "1. 打包安装 Python + NumPy + SciPy + Matplotlib + IPython + IPython Notebook 实现科学计算",
   "tags": "Python \\ Anaconda \\ 科学计算 \\ continuum",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00006_20160423.md",
+  "category": "1. 打包安装 Python + NumPy + SciPy + Matplotlib + IPython + IPython Notebook 实现科学计算",
   "title": "Python - 使用 Anaconda 进行 Python 科学计算"
  },
  {
-  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性",
   "tags": "Python \\ 编码规范",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00007_20160603.md",
+  "category": "1. 统一团队编码风格，提高工程代码可读性与可维护性",
   "title": "Python - 编码规范"
  },
  {
-  "category": "1. 用于文件统计收集功能的函数收集",
   "tags": "Python \\ 文件操作 \\ 功能函数",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00008_20161121.md",
+  "category": "1. 用于文件统计收集功能的函数收集",
   "title": "Python - 常用文件操作功能函数收集"
  },
  {
-  "category": "1. 使用 PyCharm 快捷键提高编码效率",
   "tags": "Python \\ PyCharm \\ 快捷键",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00009_20170108.md",
+  "category": "1. 使用 PyCharm 快捷键提高编码效率",
   "title": "Python - PyCharm 快捷键介绍"
  },
  {
-  "category": "1. 在 Mac 上切换默认的 Python 版本",
   "tags": "Python \\ mac \\ 切换 \\ 版本",
   "date": "",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Python/Python_00010_20170223.md",
+  "category": "1. 在 Mac 上切换默认的 Python 版本",
   "title": "Python - Mac 上切换默认的 Python 版本"
  }
 ]
