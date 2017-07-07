@@ -217,6 +217,7 @@ Tips : 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://vikt
 * [测试 - iOS 自动化测试框架介绍](Notes/Note_00020_20151221.md)
 * [测试 - 使用 DVR 进行网络请求数据的录制与测试](Note_00125_20151224)
 * [测试 - 异步函数的单元测试](Notes/Note_00175_20160425.md)
+* [测试 - 生成测试代码覆盖率](Notes/Note_00232_20170706.md)
 * [版本兼容 - 7\8 - 无法正确获取 iPad 横竖屏宽高解决方案](Notes/Note_00006_20151218.md)
 * [特殊控件 - 使用 DBSphereTagCloud 实现标签云效果](Notes/Note_00155_20160314.md)
 * [特殊控件 - 使用 PSCyclingImageView 实现自动循环轮播图](Notes/Note_00158_20160316.md)
