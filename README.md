@@ -293,3 +293,13 @@ Tips :
 * [Python - 编码规范](Python/Python_00007_20160603.md)
 
 ---------
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5eb154fc6e2b51e430ab7d3bd4f28ef1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
