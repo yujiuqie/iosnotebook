@@ -25,7 +25,7 @@
 Tips : 
 
 * 您可以通过访问 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 进行文章内容快速查询
-* 同时 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 中的搜索功能亦支持对 [Github - iOS 备忘](http://github.ibireme.com/github/list/ios/#) 中所收录的大量的 iOS 第三方开源代码进行查询搜索
+* 同时 [https://viktyz.github.io/iosnotebook](https://viktyz.github.io/iosnotebook/) 亦支持对 [Github - iOS 备忘](http://github.ibireme.com/github/list/ios/#) 中所收录的 iOS 第三方开源代码进行搜索查询
 
 ---------
 
