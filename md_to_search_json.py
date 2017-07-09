@@ -167,6 +167,7 @@ def add_item_to_list(item, pname):
 
     list.append(info)
 
+
 def get_url(repo):
     url = ''
     if not repo or not repo['name']:
@@ -182,9 +183,43 @@ def get_url(repo):
     return url
 
 
+def cp_files_to_gitbook():
+    current = current_file_dir()
+    list = current.split('/')
+    del list[(len(list) - 1)]
+    npath = '/'.join(list) + '/iOSNotebook-Gitbook'
+
+    if os.path.exists(npath):
+        notes = current + '/Notes'
+        pnotes = npath + '/'
+        cnotes = 'cp -R ' + notes + ' ' + pnotes
+        os.system(cnotes)
+        print(cnotes)
+
+        pythons = current + '/Python'
+        ppythons = npath + '/'
+        cpythons = 'cp -R ' + pythons + ' ' + ppythons
+        os.system(cpythons)
+        print(cpythons)
+
+        readme = current + '/README.md'
+        preadme = npath + '/README.md'
+        creadme = 'cp ' + readme + ' ' + preadme
+        os.system(creadme)
+        print(creadme)
+
+        summary = current + '/SUMMARY.md'
+        psummary = npath + '/SUMMARY.md'
+        csummary = 'cp ' + summary + ' ' + psummary
+        os.system(csummary)
+        print(csummary)
+    else:
+        print('Not Exist iOSNotebook-Gitbook in folder : ' + npath)
+
+
 # 主函数
 def main():
-    #整理自定义笔记
+    # 整理自定义笔记
     get_file_from_dir(current_file_dir(), parse_file)
 
     print('Add Notes Finished')
@@ -197,6 +232,9 @@ def main():
 
     # 保存
     json.dump(list, open(r'Other/search.json', 'w'), ensure_ascii=False, indent=1)
+
+    # 更新 iOSNoteBook-GitHub
+    cp_files_to_gitbook()
 
 
 if __name__ == '__main__':
