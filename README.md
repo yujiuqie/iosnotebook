@@ -265,6 +265,7 @@ Tips :
 * [语法 - Objective-C 中的 Meta-class 是什么](Notes/Note_00161_20160322.md)
 * [语法 - Objective-C 基础集合类介绍](Notes/Note_00162_20160322.md)
 * [语法 - 使用字面量](Notes/Note_00037_20151222.md)
+* [语法 - 利用 __attribute__((constructor)) 进行程序运行前逻辑注入](Notes/Note_00233_20170711.md)
 * [语法 - 开发常用的宏定义](Notes/Note_00071_20151223.md)
 * [语法 - 弧度（radians）和角度转换（degree）](Notes/Note_00036_20151222.md)
 * [语法 - 类似 NSError 的引用传值实现](Notes/Note_00031_20151221.md)
