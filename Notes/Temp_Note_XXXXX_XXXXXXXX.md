@@ -42,7 +42,7 @@ AppDelegate \ Launch
 ```
 
 
-```objectivec\xml\shell\python\java\php\html
+```objective-c\xml\shell\python\java\php\html
 ```
 
 ### 效果图

@@ -44,7 +44,7 @@ Python \ 虚拟机 \ 虚拟环境 \ virualenv
 ```
 
 
-```objectivec\xml\shell\python\java\php\html
+```objective-c\xml\shell\python\java\php\html
 ```
 
 ### 效果图
