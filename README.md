@@ -62,6 +62,8 @@ Tips :
 * [JSON - 使用 JSONHelper 进行 JSON 数据解析](Notes/Note_00093_20151223.md)
 * [Keychain - 使用 PDKeychainBindingsController 实现 Keychain 保存数据封装](Notes/Note_00088_20151223.md)
 * [KVO - 使用 KVO 更新 UITableViewCell 显示](Notes/Note_00177_20160504.md)
+* [LLVM -  Mac 下使用 cmake 安装 LLVM 和 Clang](Notes/Note_00234_20170715.md)
+* [LLVM - 使用 libclang 的 python binding 来进行词法分析（Lexical Analysis）](Notes/Note_00235_20170715.md)
 * [Mac 系统 - Mac OS 运行 Shell 脚本](Notes/Note_00026_20151221.md)
 * [Mac 系统 - 使用 Automator 批量重命名](Notes/Note_00027_20151221.md)
 * [Mac 系统 - 使用 rvm 更新管理 Ruby 和 gem 版本](Notes/Note_00220_20170410.md)
