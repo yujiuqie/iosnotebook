@@ -6,8 +6,11 @@
 import json
 import os
 import sys
-reload(sys)
-sys.setdefaultencoding( "utf-8" )
+
+if sys.version < '3':
+    reload(sys)
+    sys.setdefaultencoding( "utf-8" )
+
 
 iosnotebook_project_url = "https://github.com/viktyz/iosnotebook/blob/master/"
 
