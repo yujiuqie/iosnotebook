@@ -161,6 +161,7 @@
 	* [手势 - 实现手势操作介绍](Notes/Note_00103_20151223.md)
 	* [打包 - 使用 Jenkins 进行 App 自动化打包](Notes/Note_00142_20160229.md)
 	* [打包 - 使用 Xcodebuild 进行命令行打包](Notes/Note_00159_20160320.md)
+	* [打包 - 通过 Payload 文件夹快速生成 ipa 包](Notes/Note_00239_20170914.md)
 	* [数据加密 - 3DES 加密(包含JAVA服务器端解密)](Notes/Note_00059_20151222.md)
 	* [数据加密 - AES 加密解密](Notes/Note_00039_20151222.md)
 	* [数据加密 - Base64 编码 ( NSData <=> NSString )](Notes/Note_00002_20151218.md)
