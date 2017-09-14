@@ -990,7 +990,7 @@
   "category": "1. 希望构建自动化打包的持续集成平台",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00142_20160229.md",
   "date": "",
-  "title": "Xcode - 使用 Jenkins 进行 App 自动化打包",
+  "title": "打包 - 使用 Jenkins 进行 App 自动化打包",
   "tags": "Xcode \\ Jenkins \\ 持续集成 \\ 自动化打包"
  },
  {
@@ -1109,7 +1109,7 @@
   "category": "1. 为实现打包脚本做准备，简化打包流程",
   "url": "https://github.com/viktyz/iosnotebook/blob/master/Notes/Note_00159_20160320.md",
   "date": "",
-  "title": "工具 - 使用 Xcodebuild 进行命令行打包",
+  "title": "打包 - 使用 Xcodebuild 进行命令行打包",
   "tags": "工具 \\ Xcodebuild \\ 命令行打包 \\ 自动化打包 \\ 自动编译打包脚本"
  },
  {
