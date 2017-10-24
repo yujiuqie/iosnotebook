@@ -77,6 +77,7 @@ Tips :
 * [Mac 系统 - 修改 Mac OS X root 密码](Notes/Note_00029_20151221.md)
 * [Mac 系统 - 启用 Mac 本地 Web 服务器](Notes/Note_00222_20170601.md)
 * [Mac 系统 - 启用定时自动执行任务](Notes/Note_00165_20160323.md)
+* [Mac 系统 - 解决 SIP 机制导致的 OSError 权限问题](Notes/Note_00241_20171024.md)
 * [Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动](Notes/Note_00195_20160930.md)
 * [NSArray - 对自定义对象的数组进行排序](Notes/Note_00069_20151223.md)
 * [NSArray \ NSDictionary \ NSSet - 遍历与倒序遍历](Notes/Note_00204_20161123.md)
