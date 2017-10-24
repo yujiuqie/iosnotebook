@@ -25,6 +25,7 @@
 	* [LLVM -  Mac 下使用 cmake 安装 LLVM 和 Clang](Notes/Note_00234_20170715.md)
 	* [LLVM - 使用 libclang 的 python binding 来进行词法分析（Lexical Analysis）](Notes/Note_00235_20170715.md)
 	* [Mac 系统 - Mac OS 运行 Shell 脚本](Notes/Note_00026_20151221.md)
+	* [Mac 系统 - 为用户添加系统目录读写操作权限](Notes/Note_00240_20171024.md)
 	* [Mac 系统 - 使用 Automator 批量重命名](Notes/Note_00027_20151221.md)
 	* [Mac 系统 - 使用 rvm 更新管理 Ruby 和 gem 版本](Notes/Note_00220_20170410.md)
 	* [Mac 系统 - 使用 Scp 命令上传下载文件](Notes/Note_00022_20151221.md)
