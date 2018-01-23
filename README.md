@@ -281,6 +281,7 @@ Tips :
 * [语法 - 利用 __attribute__((constructor)) 进行程序运行前逻辑注入](Notes/Note_00233_20170711.md)
 * [语法 - 开发常用的宏定义](Notes/Note_00071_20151223.md)
 * [语法 - 弧度（radians）和角度转换（degree）](Notes/Note_00036_20151222.md)
+* [语法 - 查看 iOS SDK 各版本 API 的差异](Notes/Note_00247_20180123.md)
 * [语法 - 类似 NSError 的引用传值实现](Notes/Note_00031_20151221.md)
 * [语法 - 通过 registerDefaults 实现单次记录需求](Notes/Note_00183_20160616.md)
 * [语法 - 随机数生成实现](Notes/Note_00073_20151223.md)
