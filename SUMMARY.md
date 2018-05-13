@@ -35,6 +35,7 @@
 	* [Mac 系统 - 启用定时自动执行任务](Notes/Note_00165_20160323.md)
 	* [Mac 系统 - 解决 SIP 机制导致的 OSError 权限问题](Notes/Note_00241_20171024.md)
 	* [Mac 系统 - 通过 Shell 脚本自动记录 Terminal 活动](Notes/Note_00195_20160930.md)
+	* [Node.js -  Mac 系统中 npm 模块全局安装的权限问题](Notes/Note_00248_20180513.md)
 	* [Node.js -  Mac 系统中使用 nrm 管理 npm 源地址](Notes/Note_00243_20171107.md)
 	* [Node.js -  Mac 系统中使用 nvm 管理不同版本的 node 与 npm](Notes/Note_00242_20171107.md)
 	* [NSArray - 对自定义对象的数组进行排序](Notes/Note_00069_20151223.md)
