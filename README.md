@@ -160,6 +160,7 @@ Tips :
 * [专题 - GCD 介绍与使用（一）](Notes/Note_00102_20151223.md)
 * [专题 - GCD 介绍与使用（二）](Notes/Note_00164_20160322.md)
 * [专题 - iOS 使用 XMPP 实现即时聊天](Notes/Note_00147_20160308.md)
+* [专题 - iOS 埋点相关资源](Notes/Note_00250_20180622.md)
 * [专题 - iOS 应用证书、真机调试与发布 Appstore](Notes/Note_00131_20160119.md)
 * [专题 - iOS 开发学习资源参考](Notes/Note_00018_20151221.md)
 * [专题 - iOS 开发工具软件集合](Notes/Note_00025_20151221.md)
