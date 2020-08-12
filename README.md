@@ -1,3 +1,5 @@
+*该仓库已停止维护，后续更新见博客 [https://yujiuqie.github.io/](https://yujiuqie.github.io/)*
+
 #### 欢迎访问 [iOSNotebook](https://viktyz.github.io/iosnotebook/)
 
 这是一本用于记录 iOS 开发过程中遇到的一些问题和解决方案的电子书。
